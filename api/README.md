@@ -2,6 +2,8 @@
 
 API mockada utilizando **JSON Server** para simulação de um backend REST. 
 
+**Acesse a API Online:** [https://vidroorca-saas-ficticio.onrender.com](https://vidroorca-saas-ficticio.onrender.com)
+
 ## Documentação Completa da API
 
 A coleção completa de rotas está disponível no Postman:
@@ -16,7 +18,7 @@ A documentação detalhada de cada rota está disponível em:
 
 ###
 
-> Em uma aplicação real, seria implementado JWT para autenticação, refresh token e permissões por perfil.
+> Não possui autenticação, visto que é um projeto voltado para o desenvolvimento Front End, no entanto, em uma aplicação real, seria implementado JWT para autenticação, refresh token e permissões por perfil.
 
 ---
 
