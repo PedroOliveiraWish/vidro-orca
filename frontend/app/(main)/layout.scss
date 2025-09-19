@@ -1,0 +1,35 @@
+$bg-dark: #1a1523;
+$violet-primary: #6b21a8;
+
+.main {
+    display: flex;
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+    }
+
+    .page-container {
+        max-height: 100dvh;
+        overflow-y: scroll;
+
+        @media (max-width: 768px) {
+            padding: 1rem;
+        }
+
+        scrollbar-width: thin;
+        scrollbar-color: $violet-primary $bg-dark;
+
+        &::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        &::-webkit-scrollbar-track {
+            background: $bg-dark;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: $violet-primary;
+            border-radius: 4px;
+        }
+    }
+}

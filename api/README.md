@@ -1,40 +1,63 @@
-# VidroOrça API Mock - Backend para SaaS de Orçamentos
+---
 
-API mockada utilizando **JSON Server** para simulação de um backend REST. 
+# **VidroOrça - API Mock para Consumo em Front-End**
 
-**Acesse a API Online:** [https://vidroorca-saas-ficticio.onrender.com](https://vidroorca-saas-ficticio.onrender.com)
+Esta é uma **API mockada**, desenvolvida com **JSON Server**, destinada a simular um backend REST para fins de desenvolvimento Front-End.
+O objetivo é fornecer endpoints fictícios que permitam testes e integração sem a necessidade de um servidor real.
 
-## Documentação Completa da API
-
-A coleção completa de rotas está disponível no Postman:
-
-[Acesse a coleção no Postman](https://www.postman.com/pedrooliveirawish/workspace/vidroorca/collection/45281257-facfe742-0a02-4cdc-8c45-042955e6236c?action=share&source=copy-link&creator=45281257)
-
-A documentação detalhada de cada rota está disponível em:
-
-- [Documentação de Clientes](./docs/clientes.md)
-- [Documentação de Orçamentos](./docs/orcamentos.md)
-- [Documentação de Usuários](./docs/usuarios.md)
-
-###
-
-> Não possui autenticação, visto que é um projeto voltado para o desenvolvimento Front End, no entanto, em uma aplicação real, seria implementado JWT para autenticação, refresh token e permissões por perfil.
+**API Online:**
+[https://vidroorca-saas-ficticio.onrender.com](https://vidroorca-saas-ficticio.onrender.com)
 
 ---
 
-## Autores
+## **Objetivo do Projeto**
 
- [@PedroOliveiraWish](https://github.com/PedroOliveiraWish)
+Esta API não é um backend real e **não possui autenticação, persistência de dados ou regras de negócio complexas**.
+Seu propósito é servir como suporte para um projeto Front-End, simulando respostas reais para rotas REST.
 
+---
 
-## Tecnologias Utilizadas
+## **Endpoints Disponíveis**
 
-**Back-end:** TypeScript, Faker, JSON Server
+Todos os endpoints seguem o padrão REST:
 
+* **Usuários:** `/api/usuarios`
+* **Orçamentos:** `/api/orcamentos`
+* **Clientes:** `/api/clientes`
 
-## Como Executar Localmente
+Métodos disponíveis:
+`GET`, `POST`, `PUT`, `DELETE`
 
-Siga os passos abaixo para rodar o projeto na sua máquina local:
+---
+
+## **Autenticação**
+
+Este projeto **não possui autenticação**. Em um ambiente real, seriam implementados mecanismos como **JWT**, **refresh tokens** e **controle de permissões**.
+
+---
+
+## **Documentação Adicional**
+
+A documentação detalhada das rotas está disponível nos arquivos:
+
+* [Clientes](./docs/clientes.md)
+* [Orçamentos](./docs/orcamentos.md)
+* [Usuários](./docs/usuarios.md)
+
+Coleção do Postman para testes:
+[Acesse a coleção no Postman](https://www.postman.com/pedrooliveirawish/workspace/vidroorca/collection/45281257-facfe742-0a02-4cdc-8c45-042955e6236c?action=share&source=copy-link&creator=45281257)
+
+---
+
+## **Tecnologias Utilizadas**
+
+* **JSON Server** – Para simulação de endpoints REST
+* **TypeScript** – Para tipagem estática e manutenção do código
+* **Faker.js** – Para geração de dados fictícios
+
+---
+
+## **Como Executar Localmente**
 
 1. Clone o repositório:
 
@@ -63,19 +86,17 @@ npm run generate
 5. Inicie o servidor:
 
 ```bash
-npm run dev
+npm run start
 ```
 
-O servidor da API estará disponível em: `http://localhost:3001/api`
+A API estará disponível em:
+`http://localhost:3001/api`
 
 ---
-### Endpoints Disponíveis
 
-Os endpoints seguem o padrão para listar todos os itens (`GET /api/{endpoint}`) ou um item específico (`GET /api/{endpoint}/{id}`):
+### **Aviso Importante**
 
-- **Usuários:** `/api/usuarios`
-- **Orçamentos:** `/api/orcamentos`
-- **Clientes:** `/api/clientes`
+Este projeto é **exclusivamente para fins de desenvolvimento e demonstração**.
+Não deve ser utilizado em produção ou tratado como um backend real.
 
-
-
+---

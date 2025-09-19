@@ -1,0 +1,126 @@
+// 🌌 Paleta Dark Violet UI
+$bg-dark: #1a1523;
+$bg-card: #2a1f3d;
+$violet-primary: #6b21a8;
+$violet-hover: #7e22ce;
+$violet-light: #c084fc;
+$text-light: #f3e8ff;
+$text-muted: #cbd5e1;
+$error: #ef4444;
+
+.page-container {
+  background-color: $bg-dark;
+  min-height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @media (max-width: 768px) {
+    min-height: 93.8dvh;
+  }
+
+  .form-container {
+    background-color: $bg-card;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 700px;
+    width: 100%;
+    border-radius: 1rem;
+    color: $text-light;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+
+    h2 {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+      text-align: center;
+      color: $violet-light;
+    }
+  }
+
+  // 🏷️ Grupo de inputs
+  .input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+
+    .label-field {
+      font-size: 1rem;
+      font-weight: 500;
+      color: $text-light;
+      margin: 0.75rem 0 0.5rem 0;
+    }
+
+    input,
+    select {
+      background-color: $bg-dark;
+      border: 1px solid $violet-primary;
+      color: $text-light;
+      padding: 0.8rem 1rem;
+      border-radius: 0.6rem;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+
+      &:focus {
+        border-color: $violet-hover;
+        outline: none;
+        box-shadow: 0 0 6px $violet-primary;
+      }
+
+      &::placeholder {
+        color: $text-muted;
+      }
+
+      &:disabled {
+        background-color: darken($bg-dark, 3%);
+        opacity: 0.6;
+      }
+    }
+
+    .error {
+      color: $error;
+      font-size: 0.8rem;
+      margin-top: 0.2rem;
+    }
+  }
+
+  // 🚀 Botão de submit
+  .button-submit {
+    display: flex;
+    justify-content: start;
+    margin-top: 1.25rem;
+
+    button {
+      background-color: $violet-primary;
+      color: $text-light;
+      border: none;
+      padding: 0.8rem 1.5rem;
+      border-radius: 0.6rem;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      min-width: 200px;
+
+      &:hover {
+        background-color: $violet-hover;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 10px rgba(126, 34, 206, 0.4);
+      }
+
+      &:active {
+        transform: translateY(0);
+        box-shadow: 0 2px 6px rgba(126, 34, 206, 0.2);
+      }
+
+      &:disabled {
+        background-color: darken($violet-primary, 10%);
+        cursor: not-allowed;
+        opacity: 0.7;
+      }
+    }
+  }
+}

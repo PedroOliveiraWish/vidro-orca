@@ -1,0 +1,95 @@
+// Paleta dark violeta
+$bg-dark: #1a1523;
+$bg-card: #2a1f3d;
+$violet-primary: #6b21a8;
+$violet-hover: #7e22ce;
+$violet-light: #c084fc;
+$text-light: #f3e8ff;
+$text-muted: #cbd5e1;
+$error: #ef4444;
+
+.financeiro {
+  background-color: $bg-dark;
+  color: $text-light;
+  padding: 2rem;
+  max-height: 100dvh;
+  overflow-y: auto;
+
+  h2,
+  h3 {
+    color: $violet-light;
+    margin-bottom: 1rem;
+  }
+
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2rem;
+
+    .card {
+      background-color: $bg-card;
+      border: 1px solid $violet-primary;
+      border-radius: 8px;
+      padding: 1rem;
+      flex: 1;
+      min-width: 150px;
+      text-align: center;
+
+      h3 {
+        font-size: 1rem;
+        color: $violet-light;
+      }
+
+      p {
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+    }
+  }
+
+  .charts {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-bottom: 2rem;
+
+    .charts-pizza {
+      display: flex;
+      gap: 1.5rem;
+
+      @media (max-width: 768px) {
+        flex-direction: column;
+      }
+    }
+
+    .chart {
+      flex: 1;
+      background-color: $bg-card;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+  }
+
+  .tabela {
+    background-color: $bg-card;
+    padding: 1rem;
+    border-radius: 8px;
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+
+      th,
+      td {
+        padding: 0.5rem;
+        text-align: left;
+        border-bottom: 1px solid $violet-primary;
+      }
+
+      th {
+        color: $violet-light;
+      }
+    }
+  }
+}

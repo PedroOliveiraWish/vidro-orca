@@ -2,1327 +2,1427 @@
   "usuarios": [
     {
       "id": 1,
-      "nome": "Phillip Hickle V",
+      "nome": "Ora Hermann",
       "cargo": "Diretor",
-      "email": "earl.spinka82@yahoo.com",
+      "email": "marcos50@yahoo.com",
       "senha": "diretor123"
     },
     {
       "id": 2,
-      "nome": "Dan Hickle",
+      "nome": "Roosevelt Brown",
       "cargo": "Gerente",
-      "email": "stefan_monahan@gmail.com",
+      "email": "ariel_kirlin25@yahoo.com",
       "senha": "gerente123"
     },
     {
       "id": 3,
-      "nome": "Bobbie Murazik",
+      "nome": "Casey Tromp-Feil",
       "cargo": "Gerente",
-      "email": "corene_hyatt35@yahoo.com",
+      "email": "berta59@hotmail.com",
       "senha": "gerente123"
     },
     {
       "id": 4,
-      "nome": "Connie Swift",
+      "nome": "Andres Brown",
       "cargo": "Funcionário",
-      "email": "susie.lakin@hotmail.com",
+      "email": "orlando0@gmail.com",
       "senha": "funcionario123"
     },
     {
       "id": 5,
-      "nome": "Nicole Smith",
+      "nome": "Christie Skiles",
       "cargo": "Funcionário",
-      "email": "darlene.koss@gmail.com",
+      "email": "hosea.schoen@hotmail.com",
       "senha": "funcionario123"
     },
     {
       "id": 6,
-      "nome": "Marsha Hyatt",
+      "nome": "Francisco Littel",
       "cargo": "Funcionário",
-      "email": "kurt29@yahoo.com",
+      "email": "keven14@gmail.com",
       "senha": "funcionario123"
     },
     {
       "id": 7,
-      "nome": "Terrance Walker",
+      "nome": "Tricia Christiansen",
       "cargo": "Funcionário",
-      "email": "anabel.hamill76@hotmail.com",
+      "email": "glenna_jerde@hotmail.com",
       "senha": "funcionario123"
     },
     {
       "id": 8,
-      "nome": "Glenda Kertzmann",
+      "nome": "Marcus Feeney",
       "cargo": "Funcionário",
-      "email": "penelope_rohan74@gmail.com",
+      "email": "sedrick73@yahoo.com",
       "senha": "funcionario123"
     },
     {
       "id": 9,
-      "nome": "Toni Wiza",
+      "nome": "Dr. Krystal Greenfelder Sr.",
       "cargo": "Funcionário",
-      "email": "kacey.moen18@gmail.com",
+      "email": "meggie.huel33@hotmail.com",
       "senha": "funcionario123"
     },
     {
       "id": 10,
-      "nome": "Jorge Okuneva",
+      "nome": "Grace Schaden MD",
       "cargo": "Funcionário",
-      "email": "saige.howe34@gmail.com",
+      "email": "blair23@gmail.com",
       "senha": "funcionario123"
     }
   ],
   "clientes": [
     {
       "id": 1,
-      "nome": "Lora Connelly",
-      "email": "Shirley53@hotmail.com",
-      "telefone": "+15124957361",
-      "endereco": "156 Grove Road"
+      "nome": "Rolando Donnelly",
+      "email": "Hassan_Homenick@hotmail.com",
+      "telefone": "+14197773116",
+      "endereco": "892 Lura Island"
     },
     {
       "id": 2,
-      "nome": "Ruben Douglas",
-      "email": "Lempi.Ankunding72@hotmail.com",
-      "telefone": "+19297922630",
-      "endereco": "66903 Dan Rest"
+      "nome": "Courtney Wiegand",
+      "email": "Deonte_Osinski85@hotmail.com",
+      "telefone": "+15697484850",
+      "endereco": "20574 Vallie Via"
     },
     {
       "id": 3,
-      "nome": "Jose Medhurst III",
-      "email": "Tyshawn33@hotmail.com",
-      "telefone": "+19607119229",
-      "endereco": "48425 Kozey Burg"
+      "nome": "Miss Margarita Mitchell",
+      "email": "Jayden.Bogan94@gmail.com",
+      "telefone": "+16784436800",
+      "endereco": "74989 Meadow Lane"
     },
     {
       "id": 4,
-      "nome": "Violet Deckow",
-      "email": "Aurelio.Pagac@yahoo.com",
-      "telefone": "+19033560477",
-      "endereco": "466 Mount Street"
+      "nome": "Rachel Howe I",
+      "email": "Anita.Lesch@yahoo.com",
+      "telefone": "+18806414584",
+      "endereco": "601 King Spurs"
     },
     {
       "id": 5,
-      "nome": "Alejandro Dooley",
-      "email": "Kaelyn.Schneider@hotmail.com",
-      "telefone": "+19699858086",
-      "endereco": "495 Quinton Land"
+      "nome": "Lynn Rau",
+      "email": "Germaine.King21@hotmail.com",
+      "telefone": "+15353225395",
+      "endereco": "1866 Pleasant Street"
     },
     {
       "id": 6,
-      "nome": "Rochelle Romaguera",
-      "email": "Jamil.Stoltenberg@gmail.com",
-      "telefone": "+17512253602",
-      "endereco": "2580 Feeney Place"
+      "nome": "Noah Carter",
+      "email": "Percy.Nitzsche@hotmail.com",
+      "telefone": "+15489990405",
+      "endereco": "216 Anabel Ferry"
     },
     {
       "id": 7,
-      "nome": "Wilma Schaefer",
-      "email": "Leland_Lemke36@hotmail.com",
-      "telefone": "+16778899648",
-      "endereco": "85972 Bradtke Causeway"
+      "nome": "Stanley Kling",
+      "email": "Haven.Spinka@gmail.com",
+      "telefone": "+16765260349",
+      "endereco": "1147 W Union Street"
     },
     {
       "id": 8,
-      "nome": "Mr. Herbert Nitzsche Jr.",
-      "email": "Onie.Torphy59@yahoo.com",
-      "telefone": "+16134612944",
-      "endereco": "124 Giuseppe Villages"
+      "nome": "Rachael Schultz",
+      "email": "Orland32@hotmail.com",
+      "telefone": "+15723508046",
+      "endereco": "90219 Third Avenue"
     },
     {
       "id": 9,
-      "nome": "Alma Doyle",
-      "email": "Julien_Beer13@yahoo.com",
-      "telefone": "+14524657456",
-      "endereco": "89111 Broadway Avenue"
+      "nome": "Craig O'Connell-Koss",
+      "email": "Christy50@hotmail.com",
+      "telefone": "+16944654036",
+      "endereco": "8448 Church Road"
     },
     {
       "id": 10,
-      "nome": "Gwen Legros",
-      "email": "Colin35@gmail.com",
-      "telefone": "+18989876096",
-      "endereco": "7677 Railway Street"
+      "nome": "Mark Morar-Gleason",
+      "email": "Leif45@yahoo.com",
+      "telefone": "+14559451900",
+      "endereco": "2011 Pauline Locks"
     },
     {
       "id": 11,
-      "nome": "Ruben Schmidt",
-      "email": "Verda.Bahringer-Strosin@hotmail.com",
-      "telefone": "+14909217780",
-      "endereco": "7653 Mario Rapids"
+      "nome": "Theodore Gislason",
+      "email": "Rico43@hotmail.com",
+      "telefone": "+19238093174",
+      "endereco": "839 S Mill Street"
     },
     {
       "id": 12,
-      "nome": "Whitney Ratke",
-      "email": "Kelsie_Kunde78@gmail.com",
-      "telefone": "+13154278584",
-      "endereco": "403 Grange Road"
+      "nome": "Dr. Neil O'Kon",
+      "email": "Titus_Sauer@hotmail.com",
+      "telefone": "+19942508227",
+      "endereco": "2478 S Elm Street"
     },
     {
       "id": 13,
-      "nome": "Isaac Bauch",
-      "email": "Jacinto.Gibson@gmail.com",
-      "telefone": "+13936342902",
-      "endereco": "500 Juwan Ferry"
+      "nome": "Jaime Fay",
+      "email": "Alize_Halvorson33@yahoo.com",
+      "telefone": "+13463330189",
+      "endereco": "5503 Tina Views"
     },
     {
       "id": 14,
-      "nome": "Flora Lang",
-      "email": "Kailee.Kertzmann@yahoo.com",
-      "telefone": "+13743381410",
-      "endereco": "47319 Franey Passage"
+      "nome": "Dr. Dolores Bernier",
+      "email": "Daryl29@hotmail.com",
+      "telefone": "+15758205663",
+      "endereco": "1255 Richmond Union"
     },
     {
       "id": 15,
-      "nome": "Alejandro Hansen",
-      "email": "Dallin.Olson26@hotmail.com",
-      "telefone": "+14935476149",
-      "endereco": "22379 Marvin Forges"
+      "nome": "Alberto Heidenreich",
+      "email": "Clara_Thiel23@hotmail.com",
+      "telefone": "+15607345778",
+      "endereco": "544 Boehm Shoals"
     },
     {
       "id": 16,
-      "nome": "Hattie Leuschke DVM",
-      "email": "Kamron14@hotmail.com",
-      "telefone": "+16573551049",
-      "endereco": "4504 Alexanne Circle"
+      "nome": "Dr. Randall Monahan DDS",
+      "email": "Angela80@yahoo.com",
+      "telefone": "+14493270508",
+      "endereco": "5532 W 3rd Street"
     },
     {
       "id": 17,
-      "nome": "Yolanda Rolfson",
-      "email": "Jamarcus.Howell@yahoo.com",
-      "telefone": "+18819498067",
-      "endereco": "128 Field Close"
+      "nome": "Mrs. Roxanne Rodriguez",
+      "email": "Ottis67@hotmail.com",
+      "telefone": "+19187140764",
+      "endereco": "7859 Kozey Streets"
     },
     {
       "id": 18,
-      "nome": "Lynn Towne",
-      "email": "Alvina.Baumbach@hotmail.com",
-      "telefone": "+15816798992",
-      "endereco": "69570 Unique Ridge"
+      "nome": "Natalie Lemke",
+      "email": "Gloria5@gmail.com",
+      "telefone": "+18713585836",
+      "endereco": "8639 Eugene Route"
     },
     {
       "id": 19,
-      "nome": "Olivia Schimmel-Wehner",
-      "email": "Woodrow_Wehner67@yahoo.com",
-      "telefone": "+17132067075",
-      "endereco": "143 Heath Road"
+      "nome": "Hope West",
+      "email": "Kelsi_Nitzsche73@hotmail.com",
+      "telefone": "+15175255412",
+      "endereco": "6686 Railroad Avenue"
     },
     {
       "id": 20,
-      "nome": "Katherine Maggio",
-      "email": "Lonzo59@gmail.com",
-      "telefone": "+18825247544",
-      "endereco": "920 Northfield Road"
+      "nome": "Pedro Purdy",
+      "email": "Erick53@hotmail.com",
+      "telefone": "+17974637811",
+      "endereco": "65575 A Street"
     },
     {
       "id": 21,
-      "nome": "Jean Adams",
-      "email": "Stanford_Lockman@gmail.com",
-      "telefone": "+12928969741",
-      "endereco": "275 Spring Gardens"
+      "nome": "Sara Collins",
+      "email": "Nestor38@yahoo.com",
+      "telefone": "+13025973087",
+      "endereco": "74571 3rd Avenue"
     },
     {
       "id": 22,
-      "nome": "Guillermo Sporer",
-      "email": "Adam_Wiza40@hotmail.com",
-      "telefone": "+19245705656",
-      "endereco": "481 Wyatt Freeway"
+      "nome": "Molly Carroll",
+      "email": "Curt95@hotmail.com",
+      "telefone": "+13833664179",
+      "endereco": "7559 Macejkovic Street"
     },
     {
       "id": 23,
-      "nome": "Dr. Pamela Strosin",
-      "email": "Luther70@hotmail.com",
-      "telefone": "+19006106753",
-      "endereco": "93818 W Jefferson Street"
+      "nome": "Elsie Cassin",
+      "email": "Sunny_Krajcik@yahoo.com",
+      "telefone": "+17638862258",
+      "endereco": "2206 Jaden Prairie"
     },
     {
       "id": 24,
-      "nome": "Archie Breitenberg-Douglas",
-      "email": "London77@gmail.com",
-      "telefone": "+19506391610",
-      "endereco": "8575 Kihn Pike"
+      "nome": "Antoinette Wolff",
+      "email": "Finn.Lynch-Bartell95@gmail.com",
+      "telefone": "+18015372866",
+      "endereco": "47891 Marta Way"
     },
     {
       "id": 25,
-      "nome": "Marsha Mohr",
-      "email": "Preston15@hotmail.com",
-      "telefone": "+12785463002",
-      "endereco": "68061 Yundt Avenue"
+      "nome": "Mrs. Kelli Quitzon",
+      "email": "Priscilla.Schultz-Lowe@hotmail.com",
+      "telefone": "+14046703066",
+      "endereco": "951 Rachael Divide"
     },
     {
       "id": 26,
-      "nome": "Sammy Larson",
-      "email": "Stuart.Emmerich92@gmail.com",
-      "telefone": "+16265020570",
-      "endereco": "878 Oakfield Road"
+      "nome": "Vicki Quigley",
+      "email": "Leonie43@yahoo.com",
+      "telefone": "+13856987608",
+      "endereco": "85764 Stacy Gateway"
     },
     {
       "id": 27,
-      "nome": "Yvette Orn",
-      "email": "Ollie_Huels65@gmail.com",
-      "telefone": "+19775537163",
-      "endereco": "68726 Macejkovic Knolls"
+      "nome": "Domingo Schuppe",
+      "email": "Adalberto73@hotmail.com",
+      "telefone": "+19716564064",
+      "endereco": "84394 N Park Street"
     },
     {
       "id": 28,
-      "nome": "Kristina Moore",
-      "email": "Chasity.Hickle65@yahoo.com",
-      "telefone": "+16442848105",
-      "endereco": "72501 Larch Close"
+      "nome": "Bertha Boyer-Gibson",
+      "email": "Royal.Dietrich@gmail.com",
+      "telefone": "+19238747826",
+      "endereco": "27207 Chestnut Drive"
     },
     {
       "id": 29,
-      "nome": "Vivian Ondricka",
-      "email": "Johnny_Crist@hotmail.com",
-      "telefone": "+16228657236",
-      "endereco": "98001 Madison Street"
+      "nome": "Sidney Renner",
+      "email": "Alessandro_Weber@hotmail.com",
+      "telefone": "+16914819499",
+      "endereco": "284 Breitenberg Mews"
     },
     {
       "id": 30,
-      "nome": "Mitchell Schamberger",
-      "email": "Boris.Walsh@gmail.com",
-      "telefone": "+16589274444",
-      "endereco": "8724 N Walnut Street"
+      "nome": "Mattie Berge",
+      "email": "Tiana21@hotmail.com",
+      "telefone": "+12997909688",
+      "endereco": "76937 Steuber Highway"
     },
     {
       "id": 31,
-      "nome": "Shannon Marquardt",
-      "email": "Justina.Wehner-Franey71@hotmail.com",
-      "telefone": "+18163015717",
-      "endereco": "14922 Buck Pine"
+      "nome": "Edna Wyman-Quigley",
+      "email": "Treva40@hotmail.com",
+      "telefone": "+18532506308",
+      "endereco": "5243 Schmitt Island"
     },
     {
       "id": 32,
-      "nome": "Lorene Doyle",
-      "email": "Liam.Hodkiewicz-Fisher@yahoo.com",
-      "telefone": "+18675087416",
-      "endereco": "3026 Jakob Estate"
+      "nome": "Candace King",
+      "email": "Angelita6@hotmail.com",
+      "telefone": "+17317819653",
+      "endereco": "43379 Moen Cliff"
     },
     {
       "id": 33,
-      "nome": "Brandon Nicolas MD",
-      "email": "Letha_Will@yahoo.com",
-      "telefone": "+14243972089",
-      "endereco": "8107 Woodside"
+      "nome": "Benny Pfannerstill",
+      "email": "Rosalind_Schmitt93@gmail.com",
+      "telefone": "+19804690702",
+      "endereco": "249 O'Kon Shore"
     },
     {
       "id": 34,
-      "nome": "Orville Lubowitz",
-      "email": "Shanon.Doyle@hotmail.com",
-      "telefone": "+17769605627",
-      "endereco": "94570 Janie Courts"
+      "nome": "Gregg Gislason",
+      "email": "Juliana.Mueller@yahoo.com",
+      "telefone": "+13424301312",
+      "endereco": "70027 Koch Key"
     },
     {
       "id": 35,
-      "nome": "Elmer Cummerata",
-      "email": "Lionel.Sawayn@yahoo.com",
-      "telefone": "+19185771813",
-      "endereco": "1555 Dangelo Point"
+      "nome": "Ervin Bartell",
+      "email": "Yasmeen.Thiel1@yahoo.com",
+      "telefone": "+15493282416",
+      "endereco": "8025 Oaklands"
     },
     {
       "id": 36,
-      "nome": "Allen Reichel-Torphy",
-      "email": "Cletus.Shanahan@hotmail.com",
-      "telefone": "+12413411977",
-      "endereco": "94185 Billie Estate"
+      "nome": "Elias Ferry-Turcotte",
+      "email": "Jabari_Conroy20@yahoo.com",
+      "telefone": "+16325467637",
+      "endereco": "3814 Mann Turnpike"
     },
     {
       "id": 37,
-      "nome": "Terrence Williamson V",
-      "email": "Brandt13@hotmail.com",
-      "telefone": "+16722170359",
-      "endereco": "8182 Brendan Isle"
+      "nome": "Joseph Fahey",
+      "email": "Robert_Will@yahoo.com",
+      "telefone": "+18035928826",
+      "endereco": "3918 Hammes Prairie"
     },
     {
       "id": 38,
-      "nome": "Geneva Gusikowski",
-      "email": "Kamren_McGlynn99@gmail.com",
-      "telefone": "+15602273121",
-      "endereco": "80879 Ledner Mountains"
+      "nome": "Ramon Pfannerstill",
+      "email": "Brannon.Braun14@hotmail.com",
+      "telefone": "+14203341672",
+      "endereco": "81656 Riverside"
     },
     {
       "id": 39,
-      "nome": "Francisco Ortiz",
-      "email": "Minerva.McLaughlin-Bartell27@hotmail.com",
-      "telefone": "+18536420075",
-      "endereco": "20066 Cross Lane"
+      "nome": "Jamie Altenwerth",
+      "email": "Shaun90@yahoo.com",
+      "telefone": "+17717172182",
+      "endereco": "207 Batz Lodge"
     },
     {
       "id": 40,
-      "nome": "Arthur Rau",
-      "email": "Palma56@gmail.com",
-      "telefone": "+16944060830",
-      "endereco": "8989 Volkman Brooks"
+      "nome": "Lonnie McCullough",
+      "email": "Dana99@yahoo.com",
+      "telefone": "+17158635551",
+      "endereco": "914 Coralie Throughway"
     },
     {
       "id": 41,
-      "nome": "Randal Reichel",
-      "email": "Ahmad68@gmail.com",
-      "telefone": "+18585527453",
-      "endereco": "3465 Duncan Forks"
+      "nome": "Eduardo Gusikowski",
+      "email": "Sherman.Parisian55@yahoo.com",
+      "telefone": "+17275650864",
+      "endereco": "2960 S Broad Street"
     },
     {
       "id": 42,
-      "nome": "Vera Douglas",
-      "email": "Adam_Krajcik@yahoo.com",
-      "telefone": "+17693123345",
-      "endereco": "71026 Brook Road"
+      "nome": "Ana Paucek",
+      "email": "Rhett.Rowe24@hotmail.com",
+      "telefone": "+15785296637",
+      "endereco": "48106 Ferry Glens"
     },
     {
       "id": 43,
-      "nome": "Edna Ankunding II",
-      "email": "Marty_Franecki@hotmail.com",
-      "telefone": "+18802213838",
-      "endereco": "1585 Joanne Lakes"
+      "nome": "Roy McGlynn",
+      "email": "Jermey9@gmail.com",
+      "telefone": "+16562872074",
+      "endereco": "1860 Paucek Branch"
     },
     {
       "id": 44,
-      "nome": "Dexter Franecki-Schaefer",
-      "email": "Lilly.Gibson19@yahoo.com",
-      "telefone": "+16482105622",
-      "endereco": "19522 Wolff Forks"
+      "nome": "Gayle Greenfelder III",
+      "email": "Fay.Goodwin@hotmail.com",
+      "telefone": "+19836218483",
+      "endereco": "6448 Hammes Terrace"
     },
     {
       "id": 45,
-      "nome": "Latoya Graham",
-      "email": "Althea_Heller@hotmail.com",
-      "telefone": "+15873204310",
-      "endereco": "26219 Lonnie Passage"
+      "nome": "Anna Watsica",
+      "email": "Keely41@gmail.com",
+      "telefone": "+12928826854",
+      "endereco": "5759 Renner Mountain"
     },
     {
       "id": 46,
-      "nome": "Dustin Turcotte III",
-      "email": "Liliane_Pacocha56@gmail.com",
-      "telefone": "+19529648358",
-      "endereco": "12049 Feil Pike"
+      "nome": "Lloyd Koss",
+      "email": "Gia.Medhurst85@gmail.com",
+      "telefone": "+18505242691",
+      "endereco": "93096 S Broadway"
     },
     {
       "id": 47,
-      "nome": "Ernest Wisozk III",
-      "email": "Bernadette2@hotmail.com",
-      "telefone": "+12259556639",
-      "endereco": "8062 Hamill Islands"
+      "nome": "Santos Will",
+      "email": "Derrick_Williamson12@gmail.com",
+      "telefone": "+18159881767",
+      "endereco": "3967 Maida Knoll"
     },
     {
       "id": 48,
-      "nome": "Jacquelyn Kautzer",
-      "email": "Samanta21@yahoo.com",
-      "telefone": "+16205451272",
-      "endereco": "66394 Luettgen Underpass"
+      "nome": "Nick Miller",
+      "email": "Gladyce.Zboncak@gmail.com",
+      "telefone": "+12799239622",
+      "endereco": "573 Janessa Village"
     },
     {
       "id": 49,
-      "nome": "Ignacio Osinski",
-      "email": "Sandy.Gleason@gmail.com",
-      "telefone": "+13868137454",
-      "endereco": "98830 Runte Lakes"
+      "nome": "Tanya Mitchell",
+      "email": "Jaeden41@hotmail.com",
+      "telefone": "+15319174987",
+      "endereco": "700 Wisoky Pike"
     },
     {
       "id": 50,
-      "nome": "Owen Johnson",
-      "email": "Russ5@hotmail.com",
-      "telefone": "+13983717696",
-      "endereco": "580 Laburnum Grove"
+      "nome": "Fred Dooley",
+      "email": "Travis.Schmeler17@gmail.com",
+      "telefone": "+15695597956",
+      "endereco": "25371 Pagac Meadow"
     }
   ],
   "orcamentos": [
     {
       "id": 1,
-      "clienteId": 34,
-      "usuarioId": 8,
-      "descricao": "Porta de quatro folhas - Our sweet-inspired Bacon brings a taste of luxury to your pointless lifestyle",
-      "valor": 2145.39,
+      "clienteId": 40,
+      "usuarioId": 7,
+      "descricao": "Porta de quatro folhas - New Table model with 58 GB RAM, 496 GB storage, and exalted features",
+      "valor": 4506.49,
       "status": "Rejeitado",
-      "dataCriacao": "2024-10-26T01:23:15.333Z"
+      "dataCriacao": "2022-10-15T17:20:59.294Z",
+      "dataAtualizacao": null
     },
     {
       "id": 2,
-      "clienteId": 4,
-      "usuarioId": 4,
-      "descricao": "Porta pivotante - The sleek and phony Soap comes with blue LED lighting for smart functionality",
-      "valor": 1541.6,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-01-07T15:31:49.174Z"
+      "clienteId": 49,
+      "usuarioId": 1,
+      "descricao": "Porta de quatro folhas - The sleek and sarcastic Towels comes with mint green LED lighting for smart functionality",
+      "valor": 3764.75,
+      "status": "Pendente",
+      "dataCriacao": "2022-08-08T06:56:06.915Z",
+      "dataAtualizacao": null
     },
     {
       "id": 3,
-      "clienteId": 17,
-      "usuarioId": 5,
-      "descricao": "Janela de duas folhas - Savor the creamy essence in our Sausages, designed for same culinary adventures",
-      "valor": 4028.69,
-      "status": "Pendente",
-      "dataCriacao": "2025-04-25T16:55:32.623Z"
+      "clienteId": 37,
+      "usuarioId": 9,
+      "descricao": "Janela de duas folhas - Discover the unique new Chips with an exciting mix of Wooden ingredients",
+      "valor": 4077.4,
+      "status": "Aprovado",
+      "dataCriacao": "2024-12-01T03:38:52.112Z",
+      "dataAtualizacao": "2025-05-31T11:31:50.468Z"
     },
     {
       "id": 4,
-      "clienteId": 19,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - Introducing the Bahamas-inspired Fish, blending unhappy style with local craftsmanship",
-      "valor": 1896,
-      "status": "Rejeitado",
-      "dataCriacao": "2021-11-13T19:36:41.980Z"
+      "clienteId": 43,
+      "usuarioId": 6,
+      "descricao": "Porta pivotante - Our zebra-friendly Car ensures warped comfort for your pets",
+      "valor": 2340.55,
+      "status": "Pendente",
+      "dataCriacao": "2020-10-11T13:10:46.091Z",
+      "dataAtualizacao": null
     },
     {
       "id": 5,
-      "clienteId": 9,
-      "usuarioId": 9,
-      "descricao": "Porta pivotante - New indigo Shirt with ergonomic design for great comfort",
-      "valor": 3885.6,
+      "clienteId": 4,
+      "usuarioId": 4,
+      "descricao": "Porta pivotante - Ergonomic Shoes made with Wooden for all-day long-term support",
+      "valor": 2578.58,
       "status": "Pendente",
-      "dataCriacao": "2022-02-11T21:33:38.614Z"
+      "dataCriacao": "2022-09-19T01:38:20.975Z",
+      "dataAtualizacao": null
     },
     {
       "id": 6,
-      "clienteId": 14,
+      "clienteId": 27,
       "usuarioId": 8,
-      "descricao": "Janela de duas folhas - Awesome Towels designed with Metal for mealy performance",
-      "valor": 4417.19,
+      "descricao": "Espelho decorativo - The blue Keyboard combines Guam aesthetics with Californium-based durability",
+      "valor": 826.19,
       "status": "Pendente",
-      "dataCriacao": "2021-05-07T16:16:42.093Z"
+      "dataCriacao": "2020-11-21T07:43:29.223Z",
+      "dataAtualizacao": "2025-07-02T01:10:10.277Z"
     },
     {
       "id": 7,
-      "clienteId": 22,
-      "usuarioId": 5,
-      "descricao": "Porta de quatro folhas - Bespoke Car designed with Plastic for unfit performance",
-      "valor": 1209.89,
+      "clienteId": 35,
+      "usuarioId": 1,
+      "descricao": "Janela basculante - Innovative Soap featuring quick-witted technology and Cotton construction",
+      "valor": 2069.45,
       "status": "Pendente",
-      "dataCriacao": "2025-02-17T22:21:48.484Z"
+      "dataCriacao": "2020-10-04T18:48:55.778Z",
+      "dataAtualizacao": null
     },
     {
       "id": 8,
-      "clienteId": 38,
-      "usuarioId": 10,
-      "descricao": "Porta pivotante - Discover the unfortunate new Gloves with an exciting mix of Plastic ingredients",
-      "valor": 1709.35,
-      "status": "Pendente",
-      "dataCriacao": "2021-02-12T09:24:59.572Z"
+      "clienteId": 10,
+      "usuarioId": 6,
+      "descricao": "Porta pivotante - Featuring Germanium-enhanced technology, our Chicken offers unparalleled limited performance",
+      "valor": 2308.45,
+      "status": "Aprovado",
+      "dataCriacao": "2025-07-25T14:55:43.997Z",
+      "dataAtualizacao": null
     },
     {
       "id": 9,
-      "clienteId": 12,
-      "usuarioId": 1,
-      "descricao": "Janela basculante - Discover the koala-like agility of our Hat, perfect for prickly users",
-      "valor": 2837,
+      "clienteId": 2,
+      "usuarioId": 2,
+      "descricao": "Porta de quatro folhas - Innovative Salad featuring sick technology and Plastic construction",
+      "valor": 611.59,
       "status": "Pendente",
-      "dataCriacao": "2024-01-11T22:16:21.340Z"
+      "dataCriacao": "2020-10-15T17:51:26.910Z",
+      "dataAtualizacao": "2025-07-31T20:54:49.039Z"
     },
     {
       "id": 10,
-      "clienteId": 18,
-      "usuarioId": 4,
-      "descricao": "Porta de quatro folhas - The Open-architected regional leverage Cheese offers reliable performance and monthly design",
-      "valor": 4471.89,
-      "status": "Rejeitado",
-      "dataCriacao": "2022-08-15T03:09:28.428Z"
+      "clienteId": 10,
+      "usuarioId": 8,
+      "descricao": "Porta de quatro folhas - Intelligent Sausages designed with Metal for impressive performance",
+      "valor": 3675.13,
+      "status": "Aprovado",
+      "dataCriacao": "2024-07-07T15:30:34.985Z",
+      "dataAtualizacao": null
     },
     {
       "id": 11,
-      "clienteId": 10,
-      "usuarioId": 10,
-      "descricao": "Porta pivotante - Experience the lavender brilliance of our Table, perfect for growing environments",
-      "valor": 2224.69,
+      "clienteId": 45,
+      "usuarioId": 9,
+      "descricao": "Espelho decorativo - Stylish Soap designed to make you stand out with austere looks",
+      "valor": 4754.39,
       "status": "Pendente",
-      "dataCriacao": "2022-06-13T03:33:39.489Z"
+      "dataCriacao": "2020-10-31T10:48:12.247Z",
+      "dataAtualizacao": null
     },
     {
       "id": 12,
-      "clienteId": 41,
+      "clienteId": 46,
       "usuarioId": 9,
-      "descricao": "Porta de quatro folhas - The sleek and quarrelsome Shoes comes with white LED lighting for smart functionality",
-      "valor": 3029.45,
-      "status": "Pendente",
-      "dataCriacao": "2025-07-15T04:38:41.187Z"
+      "descricao": "Porta pivotante - Savor the tender essence in our Pants, designed for abandoned culinary adventures",
+      "valor": 4345.19,
+      "status": "Aprovado",
+      "dataCriacao": "2024-02-14T00:03:16.432Z",
+      "dataAtualizacao": "2025-06-04T05:52:44.837Z"
     },
     {
       "id": 13,
-      "clienteId": 19,
-      "usuarioId": 10,
-      "descricao": "Espelho decorativo - Introducing the Virgin Islands, British-inspired Pizza, blending courageous style with local craftsmanship",
-      "valor": 4918.99,
+      "clienteId": 48,
+      "usuarioId": 2,
+      "descricao": "Espelho decorativo - The Rafaela Salad is the latest in a series of fair products from Durgan Group",
+      "valor": 2764.75,
       "status": "Aprovado",
-      "dataCriacao": "2025-07-04T17:27:02.113Z"
+      "dataCriacao": "2021-02-12T16:41:34.974Z",
+      "dataAtualizacao": null
     },
     {
       "id": 14,
-      "clienteId": 17,
-      "usuarioId": 8,
-      "descricao": "Janela basculante - Professional-grade Bike perfect for recent training and recreational use",
-      "valor": 807.75,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-07-05T08:28:50.461Z"
+      "clienteId": 39,
+      "usuarioId": 3,
+      "descricao": "Janela basculante - Discover the fox-like agility of our Mouse, perfect for agreeable users",
+      "valor": 1352.79,
+      "status": "Pendente",
+      "dataCriacao": "2025-06-25T22:32:42.178Z",
+      "dataAtualizacao": null
     },
     {
       "id": 15,
-      "clienteId": 2,
-      "usuarioId": 3,
-      "descricao": "Espelho decorativo - Experience the salmon brilliance of our Table, perfect for triangular environments",
-      "valor": 3901.48,
-      "status": "Rejeitado",
-      "dataCriacao": "2020-12-30T10:06:57.008Z"
+      "clienteId": 44,
+      "usuarioId": 1,
+      "descricao": "Porta pivotante - Savor the delicious essence in our Chicken, designed for mammoth culinary adventures",
+      "valor": 954.5,
+      "status": "Aprovado",
+      "dataCriacao": "2024-09-24T22:59:02.858Z",
+      "dataAtualizacao": "2025-06-13T10:08:47.888Z"
     },
     {
       "id": 16,
-      "clienteId": 48,
-      "usuarioId": 7,
-      "descricao": "Janela basculante - New olive Towels with ergonomic design for definite comfort",
-      "valor": 513.8,
+      "clienteId": 12,
+      "usuarioId": 8,
+      "descricao": "Janela basculante - Stylish Pants designed to make you stand out with happy looks",
+      "valor": 1507.89,
       "status": "Pendente",
-      "dataCriacao": "2023-05-16T22:36:34.394Z"
+      "dataCriacao": "2021-12-03T22:51:50.289Z",
+      "dataAtualizacao": null
     },
     {
       "id": 17,
-      "clienteId": 14,
-      "usuarioId": 2,
-      "descricao": "Janela de duas folhas - The sleek and pretty Pizza comes with silver LED lighting for smart functionality",
-      "valor": 710.1,
+      "clienteId": 43,
+      "usuarioId": 8,
+      "descricao": "Janela de duas folhas - New Pizza model with 46 GB RAM, 838 GB storage, and brisk features",
+      "valor": 3073.15,
       "status": "Pendente",
-      "dataCriacao": "2021-05-12T20:06:20.266Z"
+      "dataCriacao": "2021-03-09T14:09:55.189Z",
+      "dataAtualizacao": null
     },
     {
       "id": 18,
-      "clienteId": 33,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - Savor the crispy essence in our Fish, designed for baggy culinary adventures",
-      "valor": 4809.69,
-      "status": "Pendente",
-      "dataCriacao": "2023-04-08T18:56:57.278Z"
+      "clienteId": 35,
+      "usuarioId": 2,
+      "descricao": "Porta pivotante - The black Gloves combines Portugal aesthetics with Fluorine-based durability",
+      "valor": 828.99,
+      "status": "Aprovado",
+      "dataCriacao": "2021-12-24T20:47:01.363Z",
+      "dataAtualizacao": "2025-09-01T00:50:18.891Z"
     },
     {
       "id": 19,
-      "clienteId": 39,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - Mueller and Sons's most advanced Computer technology increases tricky capabilities",
-      "valor": 4105.3,
-      "status": "Rejeitado",
-      "dataCriacao": "2025-04-12T07:20:30.348Z"
+      "clienteId": 36,
+      "usuarioId": 9,
+      "descricao": "Porta de quatro folhas - The Cross-platform 24/7 protocol Towels offers reliable performance and shallow design",
+      "valor": 2450.45,
+      "status": "Pendente",
+      "dataCriacao": "2023-12-24T13:43:48.737Z",
+      "dataAtualizacao": null
     },
     {
       "id": 20,
-      "clienteId": 41,
-      "usuarioId": 9,
-      "descricao": "Espelho decorativo - Discover the penguin-like agility of our Chips, perfect for svelte users",
-      "valor": 2775.99,
+      "clienteId": 21,
+      "usuarioId": 10,
+      "descricao": "Janela de duas folhas - The sleek and lasting Mouse comes with grey LED lighting for smart functionality",
+      "valor": 2736.2,
       "status": "Pendente",
-      "dataCriacao": "2022-05-12T15:14:00.015Z"
+      "dataCriacao": "2021-01-21T05:18:48.028Z",
+      "dataAtualizacao": null
     },
     {
       "id": 21,
-      "clienteId": 34,
-      "usuarioId": 5,
-      "descricao": "Porta pivotante - Discover the flamingo-like agility of our Keyboard, perfect for steel users",
-      "valor": 2116.99,
-      "status": "Aprovado",
-      "dataCriacao": "2022-02-07T07:52:53.916Z"
+      "clienteId": 17,
+      "usuarioId": 10,
+      "descricao": "Porta pivotante - Our butterfly-friendly Towels ensures energetic comfort for your pets",
+      "valor": 4775.72,
+      "status": "Pendente",
+      "dataCriacao": "2023-04-24T09:16:24.046Z",
+      "dataAtualizacao": "2025-08-19T14:01:21.380Z"
     },
     {
       "id": 22,
-      "clienteId": 26,
-      "usuarioId": 10,
-      "descricao": "Porta de quatro folhas - Experience the green brilliance of our Cheese, perfect for ripe environments",
-      "valor": 2945.99,
+      "clienteId": 32,
+      "usuarioId": 4,
+      "descricao": "Porta pivotante - New Shirt model with 13 GB RAM, 773 GB storage, and greedy features",
+      "valor": 891.09,
       "status": "Aprovado",
-      "dataCriacao": "2024-10-30T02:14:13.893Z"
+      "dataCriacao": "2021-03-06T22:47:14.518Z",
+      "dataAtualizacao": null
     },
     {
       "id": 23,
-      "clienteId": 2,
-      "usuarioId": 7,
-      "descricao": "Janela de duas folhas - Innovative Tuna featuring stiff technology and Ceramic construction",
-      "valor": 1892.59,
-      "status": "Pendente",
-      "dataCriacao": "2022-11-09T17:44:20.455Z"
+      "clienteId": 49,
+      "usuarioId": 10,
+      "descricao": "Porta pivotante - Our crunchy-inspired Fish brings a taste of luxury to your steep lifestyle",
+      "valor": 4646.69,
+      "status": "Aprovado",
+      "dataCriacao": "2025-06-11T14:36:03.555Z",
+      "dataAtualizacao": null
     },
     {
       "id": 24,
-      "clienteId": 3,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - Discover the downright new Salad with an exciting mix of Granite ingredients",
-      "valor": 3441.75,
+      "clienteId": 6,
+      "usuarioId": 8,
+      "descricao": "Janela de duas folhas - Our horse-friendly Hat ensures long-term comfort for your pets",
+      "valor": 4123.59,
       "status": "Rejeitado",
-      "dataCriacao": "2022-04-16T08:38:34.709Z"
+      "dataCriacao": "2025-02-20T15:01:44.210Z",
+      "dataAtualizacao": "2025-06-15T20:27:23.476Z"
     },
     {
       "id": 25,
-      "clienteId": 23,
-      "usuarioId": 4,
-      "descricao": "Porta pivotante - O'Connell - Smith's most advanced Tuna technology increases plump capabilities",
-      "valor": 4353.6,
-      "status": "Aprovado",
-      "dataCriacao": "2024-11-15T12:55:19.558Z"
+      "clienteId": 40,
+      "usuarioId": 10,
+      "descricao": "Porta pivotante - New Towels model with 36 GB RAM, 200 GB storage, and dearest features",
+      "valor": 4462.35,
+      "status": "Rejeitado",
+      "dataCriacao": "2020-12-26T04:28:59.874Z",
+      "dataAtualizacao": null
     },
     {
       "id": 26,
-      "clienteId": 19,
+      "clienteId": 29,
       "usuarioId": 1,
-      "descricao": "Janela de duas folhas - Innovative Car featuring glum technology and Bronze construction",
-      "valor": 748.05,
-      "status": "Aprovado",
-      "dataCriacao": "2024-07-28T05:02:26.336Z"
+      "descricao": "Porta de quatro folhas - New Sausages model with 74 GB RAM, 950 GB storage, and dramatic features",
+      "valor": 3987.15,
+      "status": "Pendente",
+      "dataCriacao": "2024-07-12T22:26:53.607Z",
+      "dataAtualizacao": null
     },
     {
       "id": 27,
-      "clienteId": 23,
-      "usuarioId": 7,
-      "descricao": "Janela de duas folhas - The sleek and descriptive Gloves comes with lime LED lighting for smart functionality",
-      "valor": 1484.69,
-      "status": "Rejeitado",
-      "dataCriacao": "2024-07-03T18:46:54.206Z"
+      "clienteId": 42,
+      "usuarioId": 8,
+      "descricao": "Porta de quatro folhas - Ergonomic Pizza made with Rubber for all-day brave support",
+      "valor": 1068.69,
+      "status": "Aprovado",
+      "dataCriacao": "2024-05-13T18:41:48.883Z",
+      "dataAtualizacao": "2025-07-19T07:25:34.143Z"
     },
     {
       "id": 28,
-      "clienteId": 2,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - Our fluffy-inspired Gloves brings a taste of luxury to your basic lifestyle",
-      "valor": 4681.5,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-10-10T14:17:09.930Z"
+      "clienteId": 27,
+      "usuarioId": 10,
+      "descricao": "Porta pivotante - Handcrafted Salad designed with Silk for shiny performance",
+      "valor": 4059.39,
+      "status": "Aprovado",
+      "dataCriacao": "2020-11-28T17:36:13.463Z",
+      "dataAtualizacao": null
     },
     {
       "id": 29,
-      "clienteId": 17,
-      "usuarioId": 8,
-      "descricao": "Porta de quatro folhas - Discover the afraid new Shoes with an exciting mix of Rubber ingredients",
-      "valor": 2964.02,
+      "clienteId": 42,
+      "usuarioId": 9,
+      "descricao": "Janela de duas folhas - New Keyboard model with 85 GB RAM, 89 GB storage, and noxious features",
+      "valor": 1015.43,
       "status": "Aprovado",
-      "dataCriacao": "2025-02-17T20:26:15.373Z"
+      "dataCriacao": "2023-01-14T02:02:27.736Z",
+      "dataAtualizacao": null
     },
     {
       "id": 30,
-      "clienteId": 23,
-      "usuarioId": 6,
-      "descricao": "Espelho decorativo - Introducing the North Macedonia-inspired Table, blending shiny style with local craftsmanship",
-      "valor": 2868.9,
-      "status": "Rejeitado",
-      "dataCriacao": "2024-10-02T05:05:19.227Z"
+      "clienteId": 41,
+      "usuarioId": 8,
+      "descricao": "Espelho decorativo - Our sweet-inspired Bike brings a taste of luxury to your dearest lifestyle",
+      "valor": 645.49,
+      "status": "Pendente",
+      "dataCriacao": "2024-09-02T22:31:16.816Z",
+      "dataAtualizacao": "2025-08-16T02:55:08.003Z"
     },
     {
       "id": 31,
-      "clienteId": 44,
-      "usuarioId": 2,
-      "descricao": "Porta pivotante - Experience the blue brilliance of our Hat, perfect for understated environments",
-      "valor": 914.39,
-      "status": "Rejeitado",
-      "dataCriacao": "2025-08-12T16:59:13.583Z"
+      "clienteId": 22,
+      "usuarioId": 4,
+      "descricao": "Janela de duas folhas - Murphy and Sons's most advanced Keyboard technology increases frivolous capabilities",
+      "valor": 3473.45,
+      "status": "Aprovado",
+      "dataCriacao": "2022-09-09T15:20:54.668Z",
+      "dataAtualizacao": null
     },
     {
       "id": 32,
-      "clienteId": 34,
-      "usuarioId": 7,
-      "descricao": "Janela de duas folhas - The Zechariah Tuna is the latest in a series of shabby products from Rogahn - Renner",
-      "valor": 2781.29,
-      "status": "Pendente",
-      "dataCriacao": "2021-12-17T21:18:57.548Z"
+      "clienteId": 50,
+      "usuarioId": 6,
+      "descricao": "Porta pivotante - Ergonomic Cheese made with Ceramic for all-day fixed support",
+      "valor": 2067.35,
+      "status": "Aprovado",
+      "dataCriacao": "2023-05-27T22:32:09.316Z",
+      "dataAtualizacao": null
     },
     {
       "id": 33,
-      "clienteId": 22,
-      "usuarioId": 10,
-      "descricao": "Espelho decorativo - Ergonomic Towels made with Granite for all-day realistic support",
-      "valor": 4804.05,
-      "status": "Aprovado",
-      "dataCriacao": "2025-04-08T16:29:03.797Z"
+      "clienteId": 3,
+      "usuarioId": 4,
+      "descricao": "Janela de duas folhas - Ergonomic Bike made with Bamboo for all-day glittering support",
+      "valor": 1667.25,
+      "status": "Pendente",
+      "dataCriacao": "2023-02-08T11:57:50.743Z",
+      "dataAtualizacao": "2025-08-31T05:47:29.540Z"
     },
     {
       "id": 34,
-      "clienteId": 13,
-      "usuarioId": 2,
-      "descricao": "Janela de duas folhas - The Leanna Mouse is the latest in a series of shocked products from Morissette - Bartoletti",
-      "valor": 2858.09,
+      "clienteId": 16,
+      "usuarioId": 9,
+      "descricao": "Porta de quatro folhas - Innovative Towels featuring kooky technology and Rubber construction",
+      "valor": 3916.49,
       "status": "Pendente",
-      "dataCriacao": "2021-08-18T10:51:32.514Z"
+      "dataCriacao": "2023-12-03T14:24:03.315Z",
+      "dataAtualizacao": null
     },
     {
       "id": 35,
-      "clienteId": 26,
-      "usuarioId": 10,
-      "descricao": "Espelho decorativo - Discover the worldly new Shirt with an exciting mix of Ceramic ingredients",
-      "valor": 4244.17,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-06-10T20:51:50.755Z"
+      "clienteId": 9,
+      "usuarioId": 5,
+      "descricao": "Porta de quatro folhas - Experience the plum brilliance of our Chips, perfect for best environments",
+      "valor": 3300.69,
+      "status": "Pendente",
+      "dataCriacao": "2021-07-21T11:29:22.014Z",
+      "dataAtualizacao": null
     },
     {
       "id": 36,
-      "clienteId": 36,
-      "usuarioId": 2,
-      "descricao": "Janela basculante - Fadel, Leannon and Auer's most advanced Fish technology increases insignificant capabilities",
-      "valor": 1918.25,
+      "clienteId": 28,
+      "usuarioId": 4,
+      "descricao": "Janela de duas folhas - Pfannerstill LLC's most advanced Bike technology increases puny capabilities",
+      "valor": 516.85,
       "status": "Rejeitado",
-      "dataCriacao": "2023-11-02T06:20:22.562Z"
+      "dataCriacao": "2023-11-02T17:04:37.276Z",
+      "dataAtualizacao": "2025-08-16T01:00:22.447Z"
     },
     {
       "id": 37,
-      "clienteId": 38,
-      "usuarioId": 10,
-      "descricao": "Janela de duas folhas - Discover the bouncy new Chair with an exciting mix of Concrete ingredients",
-      "valor": 1099.09,
-      "status": "Pendente",
-      "dataCriacao": "2021-02-12T10:38:31.901Z"
+      "clienteId": 29,
+      "usuarioId": 9,
+      "descricao": "Espelho decorativo - The lime Hat combines Suriname aesthetics with Thorium-based durability",
+      "valor": 2358.85,
+      "status": "Rejeitado",
+      "dataCriacao": "2023-11-28T04:33:42.720Z",
+      "dataAtualizacao": null
     },
     {
       "id": 38,
-      "clienteId": 12,
-      "usuarioId": 8,
-      "descricao": "Porta pivotante - Savor the salty essence in our Salad, designed for impartial culinary adventures",
-      "valor": 602.29,
-      "status": "Pendente",
-      "dataCriacao": "2021-10-08T08:58:02.918Z"
+      "clienteId": 31,
+      "usuarioId": 9,
+      "descricao": "Janela basculante - Unbranded Chicken designed with Silk for aching performance",
+      "valor": 4199.59,
+      "status": "Rejeitado",
+      "dataCriacao": "2022-01-01T15:56:46.512Z",
+      "dataAtualizacao": null
     },
     {
       "id": 39,
-      "clienteId": 17,
-      "usuarioId": 5,
-      "descricao": "Espelho decorativo - Discover the bat-like agility of our Computer, perfect for agreeable users",
-      "valor": 4400.25,
-      "status": "Aprovado",
-      "dataCriacao": "2022-11-12T14:00:19.901Z"
+      "clienteId": 29,
+      "usuarioId": 2,
+      "descricao": "Espelho decorativo - Our rich-inspired Table brings a taste of luxury to your spiteful lifestyle",
+      "valor": 4610.65,
+      "status": "Pendente",
+      "dataCriacao": "2022-06-17T03:54:49.707Z",
+      "dataAtualizacao": "2025-07-06T14:23:01.495Z"
     },
     {
       "id": 40,
-      "clienteId": 47,
-      "usuarioId": 9,
-      "descricao": "Porta de quatro folhas - Our golden-inspired Salad brings a taste of luxury to your eminent lifestyle",
-      "valor": 3038.5,
+      "clienteId": 40,
+      "usuarioId": 3,
+      "descricao": "Espelho decorativo - Professional-grade Hat perfect for cooperative training and recreational use",
+      "valor": 2500.39,
       "status": "Aprovado",
-      "dataCriacao": "2021-07-30T18:22:07.435Z"
+      "dataCriacao": "2021-02-12T04:09:27.525Z",
+      "dataAtualizacao": null
     },
     {
       "id": 41,
-      "clienteId": 13,
-      "usuarioId": 2,
-      "descricao": "Espelho decorativo - Professional-grade Tuna perfect for married training and recreational use",
-      "valor": 963.19,
-      "status": "Pendente",
-      "dataCriacao": "2025-04-26T07:01:06.746Z"
+      "clienteId": 9,
+      "usuarioId": 10,
+      "descricao": "Espelho decorativo - The Digitized uniform service-desk Soap offers reliable performance and wicked design",
+      "valor": 1454.29,
+      "status": "Aprovado",
+      "dataCriacao": "2022-05-26T07:37:04.735Z",
+      "dataAtualizacao": null
     },
     {
       "id": 42,
-      "clienteId": 36,
-      "usuarioId": 4,
-      "descricao": "Janela de duas folhas - Professional-grade Shirt perfect for frizzy training and recreational use",
-      "valor": 1702.99,
+      "clienteId": 29,
+      "usuarioId": 3,
+      "descricao": "Porta de quatro folhas - Our polar bear-friendly Fish ensures tense comfort for your pets",
+      "valor": 1481.7,
       "status": "Rejeitado",
-      "dataCriacao": "2021-05-07T09:47:19.592Z"
+      "dataCriacao": "2024-08-18T11:44:57.446Z",
+      "dataAtualizacao": "2025-05-30T20:03:14.455Z"
     },
     {
       "id": 43,
-      "clienteId": 8,
-      "usuarioId": 3,
-      "descricao": "Janela basculante - The Jennings Towels is the latest in a series of faraway products from Armstrong, Ritchie and Hilpert",
-      "valor": 4972.09,
+      "clienteId": 3,
+      "usuarioId": 8,
+      "descricao": "Porta de quatro folhas - Ergonomic Soap made with Bronze for all-day dirty support",
+      "valor": 1758.7,
       "status": "Rejeitado",
-      "dataCriacao": "2024-10-07T06:11:39.157Z"
+      "dataCriacao": "2020-09-17T13:00:48.829Z",
+      "dataAtualizacao": null
     },
     {
       "id": 44,
-      "clienteId": 43,
-      "usuarioId": 2,
-      "descricao": "Janela de duas folhas - New Towels model with 6 GB RAM, 472 GB storage, and oily features",
-      "valor": 4887.15,
-      "status": "Rejeitado",
-      "dataCriacao": "2021-05-18T20:34:06.402Z"
+      "clienteId": 28,
+      "usuarioId": 7,
+      "descricao": "Janela de duas folhas - Discover the smoggy new Shoes with an exciting mix of Cotton ingredients",
+      "valor": 1474.99,
+      "status": "Aprovado",
+      "dataCriacao": "2022-04-25T13:45:38.315Z",
+      "dataAtualizacao": null
     },
     {
       "id": 45,
-      "clienteId": 3,
-      "usuarioId": 2,
-      "descricao": "Janela basculante - Incredible Car designed with Bamboo for far-flung performance",
-      "valor": 2489.19,
+      "clienteId": 45,
+      "usuarioId": 5,
+      "descricao": "Janela basculante - Discover the snake-like agility of our Shoes, perfect for bowed users",
+      "valor": 3911.99,
       "status": "Pendente",
-      "dataCriacao": "2023-02-11T04:24:24.767Z"
+      "dataCriacao": "2024-04-29T03:45:42.881Z",
+      "dataAtualizacao": "2025-08-29T05:38:24.173Z"
     },
     {
       "id": 46,
-      "clienteId": 43,
+      "clienteId": 39,
       "usuarioId": 5,
-      "descricao": "Espelho decorativo - New magenta Shirt with ergonomic design for which comfort",
-      "valor": 3101.09,
+      "descricao": "Porta pivotante - The sleek and overdue Fish comes with ivory LED lighting for smart functionality",
+      "valor": 2426.09,
       "status": "Aprovado",
-      "dataCriacao": "2021-05-28T13:59:47.289Z"
+      "dataCriacao": "2021-04-04T20:26:00.672Z",
+      "dataAtualizacao": null
     },
     {
       "id": 47,
-      "clienteId": 43,
-      "usuarioId": 10,
-      "descricao": "Porta de quatro folhas - Innovative Computer featuring outlying technology and Wooden construction",
-      "valor": 3926.59,
+      "clienteId": 28,
+      "usuarioId": 7,
+      "descricao": "Espelho decorativo - Professional-grade Fish perfect for precious training and recreational use",
+      "valor": 2636,
       "status": "Rejeitado",
-      "dataCriacao": "2021-03-09T14:56:53.712Z"
+      "dataCriacao": "2021-10-03T04:12:28.453Z",
+      "dataAtualizacao": null
     },
     {
       "id": 48,
-      "clienteId": 37,
+      "clienteId": 42,
       "usuarioId": 10,
-      "descricao": "Porta pivotante - The Realigned static product Chicken offers reliable performance and complicated design",
-      "valor": 2920.75,
-      "status": "Pendente",
-      "dataCriacao": "2025-04-27T00:14:03.039Z"
+      "descricao": "Janela de duas folhas - Ergonomic Salad made with Granite for all-day happy-go-lucky support",
+      "valor": 895.69,
+      "status": "Rejeitado",
+      "dataCriacao": "2022-01-17T02:59:42.040Z",
+      "dataAtualizacao": "2025-06-22T02:28:02.618Z"
     },
     {
       "id": 49,
-      "clienteId": 31,
-      "usuarioId": 8,
-      "descricao": "Janela basculante - Professional-grade Pants perfect for hidden training and recreational use",
-      "valor": 4859.7,
+      "clienteId": 22,
+      "usuarioId": 10,
+      "descricao": "Janela de duas folhas - Introducing the Gambia-inspired Sausages, blending whopping style with local craftsmanship",
+      "valor": 3416.95,
       "status": "Aprovado",
-      "dataCriacao": "2022-01-02T13:18:14.527Z"
+      "dataCriacao": "2021-02-04T13:29:19.028Z",
+      "dataAtualizacao": null
     },
     {
       "id": 50,
-      "clienteId": 15,
-      "usuarioId": 4,
-      "descricao": "Espelho decorativo - Awesome Ball designed with Cotton for possible performance",
-      "valor": 1859.28,
+      "clienteId": 49,
+      "usuarioId": 10,
+      "descricao": "Porta de quatro folhas - Featuring Nihonium-enhanced technology, our Sausages offers unparalleled haunting performance",
+      "valor": 547.59,
       "status": "Aprovado",
-      "dataCriacao": "2021-04-08T10:17:14.845Z"
+      "dataCriacao": "2022-11-02T02:28:22.602Z",
+      "dataAtualizacao": null
     },
     {
       "id": 51,
-      "clienteId": 27,
-      "usuarioId": 6,
-      "descricao": "Porta pivotante - Our crunchy-inspired Towels brings a taste of luxury to your ornate lifestyle",
-      "valor": 1366.55,
+      "clienteId": 41,
+      "usuarioId": 8,
+      "descricao": "Espelho decorativo - New indigo Chicken with ergonomic design for lost comfort",
+      "valor": 2574.29,
       "status": "Rejeitado",
-      "dataCriacao": "2024-03-06T10:09:58.377Z"
+      "dataCriacao": "2021-04-14T02:22:26.588Z",
+      "dataAtualizacao": "2025-07-03T20:20:12.521Z"
     },
     {
       "id": 52,
-      "clienteId": 30,
-      "usuarioId": 4,
-      "descricao": "Janela de duas folhas - Stylish Chicken designed to make you stand out with lumbering looks",
-      "valor": 919.45,
-      "status": "Pendente",
-      "dataCriacao": "2021-12-23T20:32:14.191Z"
+      "clienteId": 40,
+      "usuarioId": 7,
+      "descricao": "Janela de duas folhas - Introducing the Sudan-inspired Sausages, blending deadly style with local craftsmanship",
+      "valor": 4022.09,
+      "status": "Aprovado",
+      "dataCriacao": "2025-08-28T09:06:32.493Z",
+      "dataAtualizacao": null
     },
     {
       "id": 53,
-      "clienteId": 7,
-      "usuarioId": 9,
-      "descricao": "Porta pivotante - Discover the peacock-like agility of our Bike, perfect for dazzling users",
-      "valor": 1929.19,
+      "clienteId": 24,
+      "usuarioId": 1,
+      "descricao": "Porta de quatro folhas - New violet Shoes with ergonomic design for shameless comfort",
+      "valor": 3874,
       "status": "Pendente",
-      "dataCriacao": "2024-07-18T00:34:18.106Z"
+      "dataCriacao": "2023-08-14T14:09:02.844Z",
+      "dataAtualizacao": null
     },
     {
       "id": 54,
-      "clienteId": 37,
-      "usuarioId": 8,
-      "descricao": "Espelho decorativo - Awesome Table designed with Granite for elegant performance",
-      "valor": 1069.78,
-      "status": "Rejeitado",
-      "dataCriacao": "2022-05-22T22:50:21.522Z"
+      "clienteId": 45,
+      "usuarioId": 6,
+      "descricao": "Janela de duas folhas - Our wolf-friendly Towels ensures whirlwind comfort for your pets",
+      "valor": 4007.5,
+      "status": "Aprovado",
+      "dataCriacao": "2023-11-10T23:51:46.299Z",
+      "dataAtualizacao": "2025-08-14T00:35:56.105Z"
     },
     {
       "id": 55,
-      "clienteId": 23,
-      "usuarioId": 1,
-      "descricao": "Porta pivotante - Professional-grade Bacon perfect for cultivated training and recreational use",
-      "valor": 2568.7,
-      "status": "Pendente",
-      "dataCriacao": "2023-01-28T21:26:27.361Z"
+      "clienteId": 13,
+      "usuarioId": 4,
+      "descricao": "Espelho decorativo - The sleek and silky Chair comes with green LED lighting for smart functionality",
+      "valor": 2206.99,
+      "status": "Aprovado",
+      "dataCriacao": "2021-09-12T20:14:34.024Z",
+      "dataAtualizacao": null
     },
     {
       "id": 56,
-      "clienteId": 30,
-      "usuarioId": 9,
-      "descricao": "Porta pivotante - Ergonomic Bike made with Granite for all-day unknown support",
-      "valor": 1194.85,
-      "status": "Rejeitado",
-      "dataCriacao": "2021-01-07T00:14:54.338Z"
+      "clienteId": 50,
+      "usuarioId": 10,
+      "descricao": "Janela basculante - Ergonomic Shirt made with Cotton for all-day unruly support",
+      "valor": 3035.09,
+      "status": "Aprovado",
+      "dataCriacao": "2023-08-08T20:52:14.345Z",
+      "dataAtualizacao": null
     },
     {
       "id": 57,
-      "clienteId": 12,
-      "usuarioId": 2,
-      "descricao": "Espelho decorativo - Our spicy-inspired Pizza brings a taste of luxury to your quixotic lifestyle",
-      "valor": 3370.79,
-      "status": "Rejeitado",
-      "dataCriacao": "2022-03-19T14:47:52.411Z"
+      "clienteId": 20,
+      "usuarioId": 7,
+      "descricao": "Janela de duas folhas - Discover the multicolored new Sausages with an exciting mix of Rubber ingredients",
+      "valor": 512.75,
+      "status": "Aprovado",
+      "dataCriacao": "2020-11-06T17:44:23.331Z",
+      "dataAtualizacao": "2025-07-31T19:21:16.807Z"
     },
     {
       "id": 58,
-      "clienteId": 2,
-      "usuarioId": 8,
-      "descricao": "Espelho decorativo - O'Reilly, Smith and Koelpin's most advanced Car technology increases lonely capabilities",
-      "valor": 1437.4,
-      "status": "Pendente",
-      "dataCriacao": "2022-09-25T19:04:40.530Z"
+      "clienteId": 27,
+      "usuarioId": 7,
+      "descricao": "Porta de quatro folhas - The salmon Gloves combines Taiwan aesthetics with Livermorium-based durability",
+      "valor": 4363.79,
+      "status": "Rejeitado",
+      "dataCriacao": "2022-12-06T16:06:39.729Z",
+      "dataAtualizacao": null
     },
     {
       "id": 59,
-      "clienteId": 1,
-      "usuarioId": 2,
-      "descricao": "Porta de quatro folhas - Professional-grade Gloves perfect for feline training and recreational use",
-      "valor": 4285.89,
-      "status": "Pendente",
-      "dataCriacao": "2022-09-22T14:22:46.722Z"
+      "clienteId": 31,
+      "usuarioId": 10,
+      "descricao": "Janela de duas folhas - Our creamy-inspired Cheese brings a taste of luxury to your cute lifestyle",
+      "valor": 4177.79,
+      "status": "Rejeitado",
+      "dataCriacao": "2024-10-06T04:22:52.870Z",
+      "dataAtualizacao": null
     },
     {
       "id": 60,
-      "clienteId": 42,
-      "usuarioId": 1,
-      "descricao": "Porta de quatro folhas - Stylish Bike designed to make you stand out with boiling looks",
-      "valor": 4975.99,
+      "clienteId": 18,
+      "usuarioId": 4,
+      "descricao": "Porta de quatro folhas - Featuring Bismuth-enhanced technology, our Mouse offers unparalleled well-lit performance",
+      "valor": 2926.09,
       "status": "Aprovado",
-      "dataCriacao": "2023-02-02T23:28:19.294Z"
+      "dataCriacao": "2024-03-03T12:28:19.490Z",
+      "dataAtualizacao": "2025-07-28T02:12:52.115Z"
     },
     {
       "id": 61,
-      "clienteId": 45,
-      "usuarioId": 5,
-      "descricao": "Janela de duas folhas - Introducing the Serbia-inspired Chicken, blending wordy style with local craftsmanship",
-      "valor": 1801.75,
-      "status": "Pendente",
-      "dataCriacao": "2025-08-10T04:22:07.200Z"
+      "clienteId": 9,
+      "usuarioId": 9,
+      "descricao": "Porta pivotante - Our penguin-friendly Gloves ensures determined comfort for your pets",
+      "valor": 1439.55,
+      "status": "Aprovado",
+      "dataCriacao": "2023-01-31T07:49:28.891Z",
+      "dataAtualizacao": null
     },
     {
       "id": 62,
-      "clienteId": 7,
+      "clienteId": 3,
       "usuarioId": 6,
-      "descricao": "Janela basculante - Discover the motionless new Towels with an exciting mix of Bronze ingredients",
-      "valor": 3455.39,
-      "status": "Aprovado",
-      "dataCriacao": "2023-05-31T10:05:44.437Z"
+      "descricao": "Porta pivotante - Innovative Hat featuring trained technology and Steel construction",
+      "valor": 1134.91,
+      "status": "Rejeitado",
+      "dataCriacao": "2022-05-24T12:08:11.610Z",
+      "dataAtualizacao": null
     },
     {
       "id": 63,
-      "clienteId": 21,
-      "usuarioId": 4,
-      "descricao": "Porta de quatro folhas - Stylish Cheese designed to make you stand out with right looks",
-      "valor": 3164.45,
-      "status": "Aprovado",
-      "dataCriacao": "2020-09-19T22:51:20.037Z"
+      "clienteId": 33,
+      "usuarioId": 8,
+      "descricao": "Janela basculante - The Innovative incremental microservice Chicken offers reliable performance and talkative design",
+      "valor": 4766.8,
+      "status": "Pendente",
+      "dataCriacao": "2023-05-20T14:55:02.491Z",
+      "dataAtualizacao": "2025-08-21T10:54:38.045Z"
     },
     {
       "id": 64,
-      "clienteId": 29,
-      "usuarioId": 2,
-      "descricao": "Janela de duas folhas - Small Cheese designed with Cotton for medium performance",
-      "valor": 3612.15,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-10-12T07:37:42.978Z"
+      "clienteId": 44,
+      "usuarioId": 8,
+      "descricao": "Janela de duas folhas - Our parrot-friendly Soap ensures spanish comfort for your pets",
+      "valor": 4386.39,
+      "status": "Aprovado",
+      "dataCriacao": "2024-08-08T10:07:23.398Z",
+      "dataAtualizacao": null
     },
     {
       "id": 65,
-      "clienteId": 35,
+      "clienteId": 44,
       "usuarioId": 7,
-      "descricao": "Espelho decorativo - Experience the silver brilliance of our Chair, perfect for pointless environments",
-      "valor": 4673.99,
-      "status": "Aprovado",
-      "dataCriacao": "2025-03-11T12:42:23.269Z"
+      "descricao": "Porta pivotante - Savor the crunchy essence in our Keyboard, designed for well-made culinary adventures",
+      "valor": 4263.65,
+      "status": "Rejeitado",
+      "dataCriacao": "2023-07-15T02:04:18.724Z",
+      "dataAtualizacao": null
     },
     {
       "id": 66,
-      "clienteId": 14,
-      "usuarioId": 2,
-      "descricao": "Porta de quatro folhas - Savor the fluffy essence in our Salad, designed for lovely culinary adventures",
-      "valor": 3771.19,
-      "status": "Aprovado",
-      "dataCriacao": "2022-11-10T13:01:53.729Z"
+      "clienteId": 7,
+      "usuarioId": 5,
+      "descricao": "Porta pivotante - The silver Gloves combines Micronesia aesthetics with Antimony-based durability",
+      "valor": 3197.49,
+      "status": "Pendente",
+      "dataCriacao": "2023-08-25T10:44:53.319Z",
+      "dataAtualizacao": "2025-05-22T10:25:17.218Z"
     },
     {
       "id": 67,
-      "clienteId": 36,
+      "clienteId": 44,
       "usuarioId": 6,
-      "descricao": "Espelho decorativo - Ergonomic Pants made with Ceramic for all-day unwritten support",
-      "valor": 2654.65,
+      "descricao": "Espelho decorativo - Our eagle-friendly Gloves ensures awesome comfort for your pets",
+      "valor": 1663.19,
       "status": "Pendente",
-      "dataCriacao": "2024-05-15T14:17:36.487Z"
+      "dataCriacao": "2023-12-04T13:50:13.444Z",
+      "dataAtualizacao": null
     },
     {
       "id": 68,
-      "clienteId": 15,
-      "usuarioId": 5,
-      "descricao": "Espelho decorativo - Discover the ostrich-like agility of our Tuna, perfect for live users",
-      "valor": 2628.49,
+      "clienteId": 37,
+      "usuarioId": 4,
+      "descricao": "Janela basculante - Innovative Shoes featuring shiny technology and Plastic construction",
+      "valor": 3318.09,
       "status": "Pendente",
-      "dataCriacao": "2025-04-15T10:33:54.940Z"
+      "dataCriacao": "2025-07-21T20:35:46.694Z",
+      "dataAtualizacao": null
     },
     {
       "id": 69,
-      "clienteId": 20,
-      "usuarioId": 3,
-      "descricao": "Espelho decorativo - Featuring Krypton-enhanced technology, our Soap offers unparalleled determined performance",
-      "valor": 3819.09,
-      "status": "Aprovado",
-      "dataCriacao": "2022-03-31T22:12:15.585Z"
+      "clienteId": 1,
+      "usuarioId": 4,
+      "descricao": "Janela basculante - Introducing the Antarctica-inspired Salad, blending nimble style with local craftsmanship",
+      "valor": 3455.59,
+      "status": "Pendente",
+      "dataCriacao": "2024-02-12T09:30:46.090Z",
+      "dataAtualizacao": "2025-09-10T00:21:25.059Z"
     },
     {
       "id": 70,
-      "clienteId": 28,
-      "usuarioId": 8,
-      "descricao": "Janela basculante - New magenta Gloves with ergonomic design for darling comfort",
-      "valor": 4592.65,
+      "clienteId": 1,
+      "usuarioId": 5,
+      "descricao": "Janela basculante - New Tuna model with 100 GB RAM, 371 GB storage, and pink features",
+      "valor": 4203.39,
       "status": "Rejeitado",
-      "dataCriacao": "2022-05-30T04:18:05.174Z"
+      "dataCriacao": "2024-02-20T23:37:18.478Z",
+      "dataAtualizacao": null
     },
     {
       "id": 71,
-      "clienteId": 45,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - The sleek and upset Ball comes with azure LED lighting for smart functionality",
-      "valor": 1876.93,
-      "status": "Aprovado",
-      "dataCriacao": "2022-12-18T06:01:36.785Z"
+      "clienteId": 6,
+      "usuarioId": 1,
+      "descricao": "Porta pivotante - Introducing the Republic of Korea-inspired Pizza, blending internal style with local craftsmanship",
+      "valor": 3676.55,
+      "status": "Pendente",
+      "dataCriacao": "2024-06-10T12:49:51.989Z",
+      "dataAtualizacao": null
     },
     {
       "id": 72,
-      "clienteId": 40,
-      "usuarioId": 9,
-      "descricao": "Porta pivotante - New azure Chicken with ergonomic design for hasty comfort",
-      "valor": 625.3,
-      "status": "Rejeitado",
-      "dataCriacao": "2022-05-09T11:23:54.857Z"
+      "clienteId": 34,
+      "usuarioId": 10,
+      "descricao": "Janela de duas folhas - Featuring Tungsten-enhanced technology, our Car offers unparalleled impish performance",
+      "valor": 722.29,
+      "status": "Pendente",
+      "dataCriacao": "2022-06-02T14:33:53.981Z",
+      "dataAtualizacao": "2025-06-14T09:31:47.350Z"
     },
     {
       "id": 73,
-      "clienteId": 8,
-      "usuarioId": 10,
-      "descricao": "Porta pivotante - Innovative Shirt featuring productive technology and Aluminum construction",
-      "valor": 2767.05,
+      "clienteId": 43,
+      "usuarioId": 9,
+      "descricao": "Porta de quatro folhas - The Candace Bacon is the latest in a series of rural products from Ebert - Wolf",
+      "valor": 4114.55,
       "status": "Rejeitado",
-      "dataCriacao": "2024-03-07T07:43:54.792Z"
+      "dataCriacao": "2025-02-14T04:23:45.235Z",
+      "dataAtualizacao": null
     },
     {
       "id": 74,
-      "clienteId": 5,
-      "usuarioId": 4,
-      "descricao": "Porta de quatro folhas - The Cassandre Car is the latest in a series of content products from Dare Group",
-      "valor": 3722.55,
+      "clienteId": 3,
+      "usuarioId": 8,
+      "descricao": "Janela de duas folhas - Rempel - McClure's most advanced Salad technology increases clumsy capabilities",
+      "valor": 4650.64,
       "status": "Rejeitado",
-      "dataCriacao": "2024-01-11T06:05:17.611Z"
+      "dataCriacao": "2025-06-19T18:00:53.881Z",
+      "dataAtualizacao": null
     },
     {
       "id": 75,
-      "clienteId": 9,
-      "usuarioId": 9,
-      "descricao": "Janela de duas folhas - Innovative Salad featuring gummy technology and Gold construction",
-      "valor": 4576.59,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-11-03T19:28:02.794Z"
+      "clienteId": 8,
+      "usuarioId": 8,
+      "descricao": "Janela basculante - Featuring Carbon-enhanced technology, our Table offers unparalleled inexperienced performance",
+      "valor": 960.79,
+      "status": "Pendente",
+      "dataCriacao": "2025-04-22T08:09:35.970Z",
+      "dataAtualizacao": "2025-06-03T08:14:22.678Z"
     },
     {
       "id": 76,
-      "clienteId": 6,
-      "usuarioId": 9,
-      "descricao": "Janela basculante - Ergonomic Bacon made with Bamboo for all-day carefree support",
-      "valor": 2365.45,
-      "status": "Pendente",
-      "dataCriacao": "2023-06-25T05:16:18.500Z"
+      "clienteId": 14,
+      "usuarioId": 6,
+      "descricao": "Porta de quatro folhas - New Salad model with 33 GB RAM, 627 GB storage, and motionless features",
+      "valor": 3343.2,
+      "status": "Rejeitado",
+      "dataCriacao": "2025-04-18T01:16:57.014Z",
+      "dataAtualizacao": null
     },
     {
       "id": 77,
-      "clienteId": 19,
-      "usuarioId": 9,
-      "descricao": "Janela basculante - Innovative Fish featuring yummy technology and Bamboo construction",
-      "valor": 4800.85,
-      "status": "Aprovado",
-      "dataCriacao": "2022-07-24T10:32:12.623Z"
+      "clienteId": 10,
+      "usuarioId": 1,
+      "descricao": "Porta de quatro folhas - New plum Chicken with ergonomic design for total comfort",
+      "valor": 3186.65,
+      "status": "Rejeitado",
+      "dataCriacao": "2022-01-22T12:58:10.120Z",
+      "dataAtualizacao": null
     },
     {
       "id": 78,
-      "clienteId": 12,
-      "usuarioId": 4,
-      "descricao": "Espelho decorativo - Tromp, Zboncak and King's most advanced Gloves technology increases better capabilities",
-      "valor": 4806.39,
+      "clienteId": 41,
+      "usuarioId": 8,
+      "descricao": "Espelho decorativo - Stylish Towels designed to make you stand out with cool looks",
+      "valor": 4352.59,
       "status": "Rejeitado",
-      "dataCriacao": "2025-03-08T03:37:55.278Z"
+      "dataCriacao": "2022-06-11T08:34:57.680Z",
+      "dataAtualizacao": "2025-05-23T07:51:58.714Z"
     },
     {
       "id": 79,
-      "clienteId": 12,
-      "usuarioId": 1,
-      "descricao": "Porta de quatro folhas - Our creamy-inspired Keyboard brings a taste of luxury to your infatuated lifestyle",
-      "valor": 3824.59,
-      "status": "Aprovado",
-      "dataCriacao": "2024-11-06T07:13:06.385Z"
+      "clienteId": 37,
+      "usuarioId": 7,
+      "descricao": "Janela de duas folhas - The orchid Fish combines Saint Pierre and Miquelon aesthetics with Astatine-based durability",
+      "valor": 623.8,
+      "status": "Pendente",
+      "dataCriacao": "2023-04-14T11:35:56.891Z",
+      "dataAtualizacao": null
     },
     {
       "id": 80,
-      "clienteId": 2,
-      "usuarioId": 5,
-      "descricao": "Janela de duas folhas - Kuhic - Barrows's most advanced Ball technology increases courageous capabilities",
-      "valor": 1147.19,
+      "clienteId": 26,
+      "usuarioId": 8,
+      "descricao": "Janela basculante - The sleek and fat Chair comes with lavender LED lighting for smart functionality",
+      "valor": 2789.95,
       "status": "Pendente",
-      "dataCriacao": "2024-01-18T06:10:20.492Z"
+      "dataCriacao": "2024-05-11T14:40:00.720Z",
+      "dataAtualizacao": null
     },
     {
       "id": 81,
-      "clienteId": 4,
-      "usuarioId": 7,
-      "descricao": "Porta de quatro folhas - The Team-oriented contextually-based moderator Mouse offers reliable performance and upright design",
-      "valor": 2274.99,
-      "status": "Rejeitado",
-      "dataCriacao": "2023-08-19T18:51:04.813Z"
+      "clienteId": 37,
+      "usuarioId": 5,
+      "descricao": "Porta de quatro folhas - Savor the zesty essence in our Chair, designed for dual culinary adventures",
+      "valor": 4308.29,
+      "status": "Pendente",
+      "dataCriacao": "2025-01-16T23:00:13.554Z",
+      "dataAtualizacao": "2025-08-22T07:17:28.691Z"
     },
     {
       "id": 82,
-      "clienteId": 5,
-      "usuarioId": 7,
-      "descricao": "Janela basculante - New lime Table with ergonomic design for sneaky comfort",
-      "valor": 1066.2,
+      "clienteId": 8,
+      "usuarioId": 1,
+      "descricao": "Porta de quatro folhas - Discover the common new Towels with an exciting mix of Rubber ingredients",
+      "valor": 1455.49,
       "status": "Rejeitado",
-      "dataCriacao": "2021-12-31T09:26:52.273Z"
+      "dataCriacao": "2023-03-12T12:29:44.949Z",
+      "dataAtualizacao": null
     },
     {
       "id": 83,
-      "clienteId": 31,
-      "usuarioId": 9,
-      "descricao": "Janela basculante - Introducing the Greenland-inspired Car, blending crushing style with local craftsmanship",
-      "valor": 3257.09,
-      "status": "Aprovado",
-      "dataCriacao": "2023-03-17T18:02:58.837Z"
+      "clienteId": 46,
+      "usuarioId": 6,
+      "descricao": "Janela basculante - Professional-grade Salad perfect for well-worn training and recreational use",
+      "valor": 1487.55,
+      "status": "Pendente",
+      "dataCriacao": "2021-03-05T00:03:23.586Z",
+      "dataAtualizacao": null
     },
     {
       "id": 84,
-      "clienteId": 33,
-      "usuarioId": 4,
-      "descricao": "Espelho decorativo - Savor the crunchy essence in our Tuna, designed for close culinary adventures",
-      "valor": 4217.49,
+      "clienteId": 28,
+      "usuarioId": 8,
+      "descricao": "Porta de quatro folhas - Stylish Car designed to make you stand out with quarterly looks",
+      "valor": 4214.19,
       "status": "Aprovado",
-      "dataCriacao": "2022-02-28T10:39:35.426Z"
+      "dataCriacao": "2022-05-20T00:28:28.349Z",
+      "dataAtualizacao": "2025-08-26T20:35:09.496Z"
     },
     {
       "id": 85,
-      "clienteId": 11,
-      "usuarioId": 4,
-      "descricao": "Janela basculante - New Keyboard model with 8 GB RAM, 867 GB storage, and outlandish features",
-      "valor": 2246.75,
-      "status": "Pendente",
-      "dataCriacao": "2024-02-06T01:00:37.128Z"
+      "clienteId": 42,
+      "usuarioId": 9,
+      "descricao": "Porta de quatro folhas - The mint green Ball combines Yemen aesthetics with Rhodium-based durability",
+      "valor": 2133.89,
+      "status": "Aprovado",
+      "dataCriacao": "2022-10-02T17:47:30.448Z",
+      "dataAtualizacao": null
     },
     {
       "id": 86,
-      "clienteId": 29,
-      "usuarioId": 3,
-      "descricao": "Janela de duas folhas - The AI-driven exuding paradigm Ball offers reliable performance and light design",
-      "valor": 3375.14,
+      "clienteId": 43,
+      "usuarioId": 4,
+      "descricao": "Porta pivotante - Experience the violet brilliance of our Bacon, perfect for pink environments",
+      "valor": 3345.95,
       "status": "Pendente",
-      "dataCriacao": "2021-05-27T06:21:14.806Z"
+      "dataCriacao": "2024-02-07T09:08:40.040Z",
+      "dataAtualizacao": null
     },
     {
       "id": 87,
-      "clienteId": 29,
-      "usuarioId": 8,
-      "descricao": "Porta de quatro folhas - Generic Bike designed with Bamboo for corrupt performance",
-      "valor": 3233.35,
+      "clienteId": 21,
+      "usuarioId": 10,
+      "descricao": "Porta pivotante - New Fish model with 32 GB RAM, 437 GB storage, and tepid features",
+      "valor": 4710.74,
       "status": "Rejeitado",
-      "dataCriacao": "2022-04-07T02:39:34.054Z"
+      "dataCriacao": "2024-12-07T15:13:38.759Z",
+      "dataAtualizacao": "2025-06-27T01:06:19.963Z"
     },
     {
       "id": 88,
-      "clienteId": 34,
-      "usuarioId": 5,
-      "descricao": "Porta de quatro folhas - New black Keyboard with ergonomic design for repentant comfort",
-      "valor": 4242.15,
-      "status": "Pendente",
-      "dataCriacao": "2025-05-11T13:25:03.745Z"
+      "clienteId": 29,
+      "usuarioId": 6,
+      "descricao": "Porta pivotante - New Gloves model with 32 GB RAM, 469 GB storage, and colossal features",
+      "valor": 3522.09,
+      "status": "Rejeitado",
+      "dataCriacao": "2022-03-04T08:37:02.239Z",
+      "dataAtualizacao": null
     },
     {
       "id": 89,
-      "clienteId": 7,
-      "usuarioId": 6,
-      "descricao": "Porta pivotante - The Bessie Bike is the latest in a series of french products from Johnston LLC",
-      "valor": 4323.69,
-      "status": "Aprovado",
-      "dataCriacao": "2023-06-16T03:02:40.648Z"
+      "clienteId": 39,
+      "usuarioId": 10,
+      "descricao": "Porta de quatro folhas - Our juicy-inspired Hat brings a taste of luxury to your first lifestyle",
+      "valor": 3632.35,
+      "status": "Rejeitado",
+      "dataCriacao": "2021-12-16T11:46:04.891Z",
+      "dataAtualizacao": null
     },
     {
       "id": 90,
-      "clienteId": 37,
-      "usuarioId": 7,
-      "descricao": "Espelho decorativo - New azure Pizza with ergonomic design for soft comfort",
-      "valor": 716.29,
-      "status": "Pendente",
-      "dataCriacao": "2024-03-06T16:32:15.368Z"
+      "clienteId": 32,
+      "usuarioId": 9,
+      "descricao": "Espelho decorativo - Bespoke Tuna designed with Granite for wordy performance",
+      "valor": 2035.65,
+      "status": "Rejeitado",
+      "dataCriacao": "2025-01-24T05:10:16.892Z",
+      "dataAtualizacao": "2025-05-15T09:47:44.110Z"
     },
     {
       "id": 91,
-      "clienteId": 25,
+      "clienteId": 47,
       "usuarioId": 5,
-      "descricao": "Espelho decorativo - Ergonomic Chair made with Metal for all-day elementary support",
-      "valor": 2158.79,
-      "status": "Rejeitado",
-      "dataCriacao": "2021-01-12T04:17:06.470Z"
+      "descricao": "Porta pivotante - Our tiger-friendly Pants ensures second comfort for your pets",
+      "valor": 1700.64,
+      "status": "Aprovado",
+      "dataCriacao": "2023-02-02T07:57:43.236Z",
+      "dataAtualizacao": null
     },
     {
       "id": 92,
-      "clienteId": 3,
-      "usuarioId": 1,
-      "descricao": "Porta de quatro folhas - Innovative Chips featuring hairy technology and Plastic construction",
-      "valor": 4793.05,
-      "status": "Rejeitado",
-      "dataCriacao": "2024-06-12T18:20:43.362Z"
+      "clienteId": 29,
+      "usuarioId": 5,
+      "descricao": "Janela de duas folhas - Our moist-inspired Ball brings a taste of luxury to your wry lifestyle",
+      "valor": 1684.6,
+      "status": "Aprovado",
+      "dataCriacao": "2025-03-19T02:34:20.194Z",
+      "dataAtualizacao": null
     },
     {
       "id": 93,
-      "clienteId": 46,
-      "usuarioId": 8,
-      "descricao": "Espelho decorativo - Innovative Fish featuring left technology and Cotton construction",
-      "valor": 1855.89,
+      "clienteId": 9,
+      "usuarioId": 3,
+      "descricao": "Janela de duas folhas - The Greta Shirt is the latest in a series of unused products from McKenzie, Rowe and Bailey",
+      "valor": 795.05,
       "status": "Aprovado",
-      "dataCriacao": "2022-06-04T16:57:45.031Z"
+      "dataCriacao": "2021-02-07T20:35:28.272Z",
+      "dataAtualizacao": "2025-07-22T11:02:28.607Z"
     },
     {
       "id": 94,
-      "clienteId": 24,
-      "usuarioId": 8,
-      "descricao": "Espelho decorativo - The sleek and back Chair comes with ivory LED lighting for smart functionality",
-      "valor": 3987,
-      "status": "Rejeitado",
-      "dataCriacao": "2022-03-26T10:59:56.394Z"
+      "clienteId": 32,
+      "usuarioId": 10,
+      "descricao": "Janela de duas folhas - Professional-grade Chicken perfect for dearest training and recreational use",
+      "valor": 836.39,
+      "status": "Aprovado",
+      "dataCriacao": "2021-04-20T00:39:05.211Z",
+      "dataAtualizacao": null
     },
     {
       "id": 95,
-      "clienteId": 17,
-      "usuarioId": 2,
-      "descricao": "Porta pivotante - New Hat model with 36 GB RAM, 3 GB storage, and vivacious features",
-      "valor": 1010.5,
-      "status": "Pendente",
-      "dataCriacao": "2021-10-07T20:26:26.632Z"
+      "clienteId": 33,
+      "usuarioId": 4,
+      "descricao": "Espelho decorativo - Stylish Mouse designed to make you stand out with vague looks",
+      "valor": 1454.05,
+      "status": "Rejeitado",
+      "dataCriacao": "2025-03-09T17:59:47.393Z",
+      "dataAtualizacao": null
     },
     {
       "id": 96,
-      "clienteId": 24,
-      "usuarioId": 6,
-      "descricao": "Janela de duas folhas - Professional-grade Bike perfect for dismal training and recreational use",
-      "valor": 2761.19,
-      "status": "Rejeitado",
-      "dataCriacao": "2021-08-12T07:07:35.243Z"
+      "clienteId": 3,
+      "usuarioId": 3,
+      "descricao": "Espelho decorativo - Professional-grade Salad perfect for haunting training and recreational use",
+      "valor": 3540.79,
+      "status": "Pendente",
+      "dataCriacao": "2021-09-08T10:40:14.365Z",
+      "dataAtualizacao": "2025-07-11T11:45:58.330Z"
     },
     {
       "id": 97,
-      "clienteId": 23,
-      "usuarioId": 10,
-      "descricao": "Porta de quatro folhas - The Jo Ball is the latest in a series of plain products from Luettgen Group",
-      "valor": 1965.94,
+      "clienteId": 48,
+      "usuarioId": 4,
+      "descricao": "Porta pivotante - Introducing the Thailand-inspired Car, blending hateful style with local craftsmanship",
+      "valor": 2556.1,
       "status": "Aprovado",
-      "dataCriacao": "2021-08-27T18:54:54.616Z"
+      "dataCriacao": "2023-10-24T18:54:44.962Z",
+      "dataAtualizacao": null
     },
     {
       "id": 98,
-      "clienteId": 39,
-      "usuarioId": 7,
-      "descricao": "Porta pivotante - Ergonomic Cheese made with Aluminum for all-day ornery support",
-      "valor": 2347.59,
-      "status": "Rejeitado",
-      "dataCriacao": "2021-04-30T23:28:16.680Z"
+      "clienteId": 12,
+      "usuarioId": 6,
+      "descricao": "Janela de duas folhas - New Mouse model with 80 GB RAM, 914 GB storage, and worthwhile features",
+      "valor": 4268.49,
+      "status": "Pendente",
+      "dataCriacao": "2021-02-10T11:23:56.912Z",
+      "dataAtualizacao": null
     },
     {
       "id": 99,
-      "clienteId": 20,
+      "clienteId": 4,
       "usuarioId": 6,
-      "descricao": "Janela basculante - New Chair model with 95 GB RAM, 337 GB storage, and passionate features",
-      "valor": 1265.55,
-      "status": "Aprovado",
-      "dataCriacao": "2024-06-01T22:54:18.492Z"
+      "descricao": "Janela basculante - Our flamingo-friendly Table ensures idealistic comfort for your pets",
+      "valor": 2062,
+      "status": "Pendente",
+      "dataCriacao": "2021-01-13T20:17:17.963Z",
+      "dataAtualizacao": "2025-08-24T11:15:13.683Z"
     },
     {
       "id": 100,
-      "clienteId": 17,
-      "usuarioId": 2,
-      "descricao": "Janela de duas folhas - The white Ball combines Timor-Leste aesthetics with Nickel-based durability",
-      "valor": 2964.09,
+      "clienteId": 33,
+      "usuarioId": 4,
+      "descricao": "Janela de duas folhas - The Balanced encompassing orchestration Tuna offers reliable performance and sunny design",
+      "valor": 4315.69,
       "status": "Pendente",
-      "dataCriacao": "2023-07-22T19:50:27.659Z"
+      "dataCriacao": "2022-09-14T19:10:54.473Z",
+      "dataAtualizacao": null
     }
   ]
 }

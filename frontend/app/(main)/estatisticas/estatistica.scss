@@ -1,0 +1,79 @@
+// Paleta dark violeta
+$bg-dark: #1a1523;
+$bg-card: #2a1f3d;
+$violet-primary: #6b21a8;
+$violet-hover: #7e22ce;
+$violet-light: #c084fc;
+$text-light: #f3e8ff;
+$text-muted: #cbd5e1;
+$error: #ef4444;
+
+.estatistica {
+  padding: 2rem;
+  background-color: $bg-dark;
+  color: $text-light;
+  max-height: 100dvh;
+  overflow: auto;
+
+  @media (max-width: 768px) {
+    min-height: 93.8dvh;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    color: $violet-light;
+    text-align: center;
+  }
+
+  .estatistica-table-container {
+    max-height: 75vh; // 🔹 altura fixa
+    overflow-y: auto; // 🔹 adiciona rolagem
+    border-radius: 0.5rem;
+    background-color: $bg-card;
+
+    // Barra de rolagem estilizada (opcional)
+    scrollbar-width: thin;
+    scrollbar-color: $violet-primary $bg-dark;
+
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: $bg-dark;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background-color: $violet-primary;
+      border-radius: 4px;
+    }
+  }
+
+  .estatistica-table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th,
+    td {
+      padding: 0.65rem 1rem;
+      border-bottom: 1px solid $violet-primary;
+      text-align: left;
+    }
+
+    th {
+      background-color: $violet-primary;
+      color: $text-light;
+      text-transform: uppercase;
+      font-size: 0.9rem;
+    }
+
+    tr:nth-child(even) {
+      background-color: rgba($violet-primary, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba($violet-hover, 0.15);
+    }
+  }
+}

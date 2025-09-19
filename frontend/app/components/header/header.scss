@@ -1,0 +1,206 @@
+// Paleta violeta dark
+$violet-dark: #1a001f;
+$violet-medium: #2a0033;
+$violet-light: #9b4dca;
+$violet-hover: #c77dff;
+$text-light: #f0f0f0;
+$text-muted: #b8a9c9;
+$danger: #ff4d6d;
+
+// Header (sidebar desktop, topbar mobile)
+.header {
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 100dvh;
+  background: linear-gradient(180deg, $violet-dark, $violet-medium);
+  color: $text-light;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 1rem;
+  box-shadow: 2px 0 12px rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+
+  // Cabeçalho do título
+  .header-left {
+    h1 {
+      font-size: 1.6rem;
+      font-weight: bold;
+      text-align: center;
+      margin-bottom: 2rem;
+      color: $violet-hover;
+      text-shadow: 0 0 6px rgba(155, 77, 202, 0.6);
+      cursor: pointer;
+      transition: transform 0.2s ease-in-out;
+
+      &:hover {
+        transform: scale(1.05);
+        color: $violet-light;
+      }
+    }
+  }
+
+  // Navegação
+  .header-nav {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    transition: max-height 0.3s ease;
+
+    .links {
+      display: flex;
+      flex-direction: column;
+
+      div {
+        font-size: 1rem;
+        padding: 0.6rem 1rem;
+        margin: 0.5rem 0;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+
+        &:hover {
+          background: rgba(155, 77, 202, 0.15);
+          color: $violet-hover;
+        }
+
+        &::after {
+          content: "";
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 4px;
+          height: 0%;
+          background: $violet-hover;
+          border-radius: 2px;
+          transition: height 0.3s ease-in-out;
+        }
+
+        &:hover::after {
+          height: 100%;
+        }
+      }
+    }
+  }
+
+  // Usuário + logout
+  .header-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    .user-info {
+      font-size: 0.85rem;
+      color: $text-muted;
+      background: rgba(75, 0, 130, 0.25);
+      padding: 0.4rem 0.8rem;
+      border-radius: 6px;
+      text-align: center;
+    }
+
+    .logout-btn {
+      min-width: 150px;
+      width: 100%;
+      background: transparent;
+      border: 1px solid $danger;
+      color: $danger;
+      padding: 0.6rem;
+      border-radius: 6px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s ease;
+
+      &:hover {
+        background: $danger;
+        color: #fff;
+        box-shadow: 0 0 10px rgba(255, 77, 109, 0.5);
+      }
+    }
+  }
+
+  // Hamburger button escondido no desktop
+  .hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    cursor: pointer;
+
+    span {
+      width: 25px;
+      height: 3px;
+      background-color: $text-light;
+      border-radius: 2px;
+      transition: 0.3s;
+    }
+
+    &.active span:nth-child(1) {
+      transform: rotate(45deg) translate(5px, 5px);
+    }
+    &.active span:nth-child(2) {
+      opacity: 0;
+    }
+    &.active span:nth-child(3) {
+      transform: rotate(-45deg) translate(5px, -5px);
+    }
+  }
+}
+
+// Mobile / Tablet
+@media (max-width: 768px) {
+  .header {
+    position: relative;
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+
+    .header-left {
+      h1 {
+        font-size: 1.4rem;
+        margin-bottom: 0;
+      }
+    }
+
+    // hamburger aparece
+    .hamburger {
+      display: flex;
+      margin-left: auto;
+    }
+
+    // nav fica escondido até abrir
+    .header-nav {
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      background: linear-gradient(180deg, $violet-dark, $violet-medium);
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem;
+      display: none;
+
+      &.open {
+        display: flex;
+      }
+    }
+
+    .header-right {
+      width: 100%;
+      flex-direction: column;
+      gap: 0.5rem;
+
+      .logout-btn {
+        min-width: unset;
+        width: 100%;
+      }
+    }
+  }
+}

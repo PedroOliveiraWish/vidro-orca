@@ -50,7 +50,8 @@ for (let i = 1; i <= maxOrcamentos; i++) {
         ])} - ${faker.commerce.productDescription()}`,
         valor: parseFloat(faker.commerce.price({ min: 500, max: 5000 })),
         status: faker.helpers.arrayElement(["Pendente", "Aprovado", "Rejeitado"]),
-        dataCriacao: faker.date.past({ years: 5 })
+        dataCriacao: faker.date.past({ years: 5 }),
+        dataAtualizacao: i % 3 === 0 ? faker.date.recent({ days: 120 }) : null
     })
 }
 

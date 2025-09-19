@@ -22,4 +22,5 @@ export type Orcamento = {
   valor: number;
   status: "Pendente" | "Aprovado" | "Rejeitado";
   dataCriacao: Date;
+  dataAtualizacao: Date | null;
 }
